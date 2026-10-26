@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://trailwise-gear.jaydenisraelruiz.workers.dev/sitemap.xml
