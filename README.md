@@ -15,4 +15,4 @@ Edit articles in `content/guides.json`; edit layout/policies in `scripts/build.p
 
 See `docs/deployment.md` for connecting the existing Worker without changing its URL, `docs/content-plan.md` for 32 topics and the production process, and `docs/affiliate-operations.md` for monetization preparation. Original homepage preserved in `archive/`.
 
-No affiliate tracking, third-party analytics, forms, or secrets are included. Source and generated assets are public. Do not commit credentials or personal application details.
+Cloudflare Web Analytics is included. No affiliate tracking, forms, or secrets are included. Source and generated assets are public. Do not commit credentials or personal application details.
