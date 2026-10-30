@@ -49,4 +49,6 @@ Prepared October 26, 2026. Topic hypotheses, not measured keyword volumes or dif
 
 ## Metrics and current baseline
 
-Live starter homepage responded HTTP 200 on October 26, 2026. Search Console access, indexed-page counts, impressions, clicks, visitors, affiliate clicks, conversions, and revenue are **unknown**, not zero. No affiliate tracking is installed. No approval or revenue is claimed. No unattended monitoring has been configured yet.
+October 30 run: all 18 sitemap pages returned 200, robots.txt allowed crawling, and an unknown URL returned 404. The MSR PocketRocket 2 manual link returned 404; it was replaced with the current manufacturer-hosted PDF linked from the official product page. USDA's camping-food page returned 403 to this checker: reachability is unconfirmed, not a verified broken page.
+
+Search Console ownership and sitemap submission were previously confirmed by the owner. Authorized query, indexing, traffic, affiliate click, conversion and revenue data are unavailable in this run and remain **unknown**, not zero. Cloudflare Web Analytics is included, but no authenticated analytics reports are available. BougeRV approval was confirmed in the connected inbox; one owner-supplied tracking link is used in the first camping guide with disclosure. No sample testing or earnings are claimed. Continue to improve existing guides before adding volume.

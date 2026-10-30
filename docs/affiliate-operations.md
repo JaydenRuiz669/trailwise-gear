@@ -1,6 +1,6 @@
-# Monetization preparation — October 26, 2026
+# Affiliate and partnership operations — updated October 30, 2026
 
-No application has been submitted, no legal agreement accepted, and no tracking ID is present. Fees must remain $0. Do not use personal purchases to manufacture commissions.
+Status: BougeRV approval was confirmed in the connected inbox on October 29. The owner supplied a real Impact link for its sensor camping lantern. AvantLink declined the application on October 27; Bass Pro declined on October 29. Eastside Sports reported an inactive program. These are separate from outbound inquiries; an inquiry is not an application or approval. No sample or paid sponsorship has been confirmed. Exact account-visible commission terms, clicks, conversions and revenue remain unknown. Fees must remain $0. Do not use personal purchases to manufacture commissions.
 
 | Candidate | Fit / decision | Verified public terms | Still to verify before application |
 |---|---|---|---|
@@ -39,4 +39,18 @@ Do not state that the ten-article version is live until deployment is verified. 
 
 ## Recurring operations
 
-Weekly: check homepage, representative guide, robots, sitemap, missing-page response, broken links and deployment status; read Search Console if authorized. Monthly: review queries, page impressions/clicks, evidence freshness, and approved affiliate reports. Unknown metrics remain unknown. After 28 days of data, prioritize high-impression pages with weak matching content, then useful new topics. Do not auto-generate articles on a timer. Scheduled monitoring is not active until a real automation is created and verified.
+On each daily run: check homepage, representative guide, robots, sitemap, missing-page response, broken links and deployment status; read Search Console if authorized. Monthly: review queries, page impressions/clicks, evidence freshness, and approved affiliate reports. Unknown metrics remain unknown. After 28 days of data, prioritize high-impression pages with weak matching content, then useful new topics. Do not auto-generate articles on a timer. The owner requested daily scheduled checks and outreach. Each report covers only the completed run; it does not imply continuous monitoring.
+
+
+## Current outreach procedure — October 30
+
+Lead with review samples, gifted gear, and potential paid sponsorships for The Scenic Route (https://www.youtube.com/@thescenicroute2026). Prioritize compact stoves, hammocks, lanterns and practical solo-adventure equipment. Affiliate links and research-based Trailwise Gear articles support distribution. Do not imply existing product use, guaranteed views, favorable reviews, contractual deliverables or dates. The owner reported one recent daily Short at approximately 1.1K views: this is one Short, not a channel average or guaranteed reach.
+
+Verify each email on an official source and search Gmail history before sending. Sent messages are authoritative outreach records. Read replies first; honor rejections and opt-outs. One polite follow-up is permitted only after at least seven business days with no reply; then stop unless the company responds. Do not accept agreements, make purchases, grant rights, or supply legal/tax/bank/identity information. Preserve capacity for video work.
+
+October 30: sent new nonbinding sample/partnership inquiries to Grand Trunk, Kammok and FLEXTAIL; no application or agreement accepted. Hyke & Byke's original inquiry permanently bounced. BougeRV has already been asked about samples; avoid duplicate follow-ups. Brand approvals and tracking information must be authenticated before activation; sponsored/gifted products require appropriate disclosures.
+
+Official contact sources checked October 30:
+- https://www.grandtrunk.com/pages/contact
+- https://kammok.com/pages/kammok-creator-ambassador-program-terms-and-conditions (contact only; no terms accepted)
+- https://www.flextail.com/pages/help-center
