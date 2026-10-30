@@ -53,7 +53,7 @@ for slug,(title,desc,sections) in policies.items():
     body+='</article>';page(slug+'/index.html',title,desc,body)
 page('404.html','Page not found','Find a camping or trail guide.','<div class="page-intro"><p class="eyebrow">404 · A DIFFERENT TURN</p><h1>This path ends here.</h1><p>The page may have moved. Browse the guidebook to find your next step.</p><a class="button" href="/guides/">Find a guide →</a></div>')
 urls=['/','/guides/','/comparisons/']+['/guides/'+g['slug']+'/' for g in guides]+['/'+s+'/' for s in policies]
-write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}{u}</loc><lastmod>{'2026-10-30' if u in ['/guides/first-car-camping-trip/','/guides/pocketrocket-2-vs-jetboil-flash/','/about/','/affiliate-disclosure/','/privacy/'] else DATE}</lastmod></url>' for u in urls)+'</urlset>')
+write('sitemap.xml','<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'+''.join(f'<url><loc>{BASE}{u}</loc><lastmod>{'2026-10-30' if u in ['/guides/first-car-camping-trip/','/guides/camping-stove-total-cost/','/about/','/affiliate-disclosure/','/privacy/'] else DATE}</lastmod></url>' for u in urls)+'</urlset>')
 write('robots.txt',f'User-agent: *\nAllow: /\nSitemap: {BASE}/sitemap.xml\n')
 write('icon.svg','<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="12" fill="#183f35"/><path d="M10 48 29 14 48 48ZM31 48 43 27 56 48" fill="none" stroke="#eedba6" stroke-width="4"/></svg>')
 print(f'Built {len(urls)} indexable pages, custom 404, sitemap and robots.txt')
