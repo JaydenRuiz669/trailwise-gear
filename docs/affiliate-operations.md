@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated October 30, 2026
+# Affiliate and partnership operations — updated October 31, 2026
 
 Status: BougeRV approval was confirmed in the connected inbox on October 29. The owner supplied a real Impact link for its sensor camping lantern. AvantLink declined the application on October 27; Bass Pro declined on October 29. Eastside Sports reported an inactive program. These are separate from outbound inquiries; an inquiry is not an application or approval. No sample or paid sponsorship has been confirmed. Exact account-visible commission terms, clicks, conversions and revenue remain unknown. Fees must remain $0. Do not use personal purchases to manufacture commissions.
 
@@ -54,3 +54,13 @@ Official contact sources checked October 30:
 - https://www.grandtrunk.com/pages/contact
 - https://kammok.com/pages/kammok-creator-ambassador-program-terms-and-conditions (contact only; no terms accepted)
 - https://www.flextail.com/pages/help-center
+
+
+## October 31 operations record
+
+- Read the connected inbox before sending. Zenbivy's Dom invited a program application through AvantLink and is open to considering smaller creators; this is not approval or an offer of samples. The owner already replied October 30 asking about a product review. Wait for a response rather than duplicate the message.
+- A new AvantLink US Influencer application (1675097) was received October 30. A SENT ownership-authentication email was confirmed October 30. Authentication completion and approval are not confirmed. The earlier website application decline remains a separate event.
+- Sent new nonbinding sample/gifted gear/possible paid integration inquiries to TOAKS, LuminAID, VARGO and UCO after official-contact verification and Gmail duplicate checks. Sent SOTO one final polite follow-up to the October 19 inquiry, after at least seven business days. No further SOTO follow-up without a reply. No new applications submitted, agreements accepted, samples confirmed, or sponsorships confirmed in this run.
+- Official contacts: https://www.toaksoutdoor.com/pages/contact-us ; https://luminaid.com/pages/press ; https://vargooutdoors.com/pages/vargo-guarantee ; https://ucogear.com/policies/refund-policy ; https://sotooutdoors.com/contact-us/ . Contact addresses were checked in official page HTML where text extraction omitted them. SENT messages remain authoritative records.
+- Live website: all 18 sitemap pages and robots.txt returned 200; missing URL returned 404. Internal assets and external links were checked. USDA camping food guidance returned 403 to the checker; not classified as broken. Both existing BougeRV destinations returned 200 (general store and sensor lantern). There are three disclosed placements across the first-camping, cooler and power guides, using two distinct links. No new monetized links were added.
+- Search Console, Cloudflare analytics reports and affiliate performance data are unavailable to this run. Indexing, visits, clicks, conversions and revenue remain unknown.
