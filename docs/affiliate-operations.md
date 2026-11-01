@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated October 31, 2026
+# Affiliate and partnership operations — updated November 1, 2026
 
 Status: BougeRV approval was confirmed in the connected inbox on October 29. The owner supplied a real Impact link for its sensor camping lantern. AvantLink declined the application on October 27; Bass Pro declined on October 29. Eastside Sports reported an inactive program. These are separate from outbound inquiries; an inquiry is not an application or approval. No sample or paid sponsorship has been confirmed. Exact account-visible commission terms, clicks, conversions and revenue remain unknown. Fees must remain $0. Do not use personal purchases to manufacture commissions.
 
@@ -64,3 +64,16 @@ Official contact sources checked October 30:
 - Official contacts: https://www.toaksoutdoor.com/pages/contact-us ; https://luminaid.com/pages/press ; https://vargooutdoors.com/pages/vargo-guarantee ; https://ucogear.com/policies/refund-policy ; https://sotooutdoors.com/contact-us/ . Contact addresses were checked in official page HTML where text extraction omitted them. SENT messages remain authoritative records.
 - Live website: all 18 sitemap pages and robots.txt returned 200; missing URL returned 404. Internal assets and external links were checked. USDA camping food guidance returned 403 to the checker; not classified as broken. Both existing BougeRV destinations returned 200 (general store and sensor lantern). There are three disclosed placements across the first-camping, cooler and power guides, using two distinct links. No new monetized links were added.
 - Search Console, Cloudflare analytics reports and affiliate performance data are unavailable to this run. Indexing, visits, clicks, conversions and revenue remain unknown.
+
+
+## November 1 operations record
+
+Nilight approval is confirmed by the connected CJ welcome email dated October 31. Its welcome email advertises 12% commission and a 45-day window; full account terms, exclusions and performance reports have not been inspected. Existing live CJ links resolve to Nilight. The owner already sent a lighting-sample request on October 31; no duplicate sent today. No samples or paid sponsorships confirmed.
+
+CJ notified that ActionHeat is deactivated and transactions during deactivation will not earn commissions. No published ActionHeat link was found on Trailwise Gear. Do not add or promote ActionHeat links until reactivation is confirmed.
+
+Sent three new nonbinding review-sample/gifted-gear/possible paid integration inquiries to Naturehike, ENO and TETON after Gmail history checks. Official contacts: https://www.naturehike.com/pages/affiliate (collab address verified in page HTML), https://eaglesnestoutfittersinc.com/pages/contact-us and https://tetongear.com/pages/contact-us . No application, agreement or deliverable commitment made. Other inquiries remain too recent for their permitted follow-up; SOTO already received its final follow-up.
+
+Live audit: 18 sitemap pages returned 200, robots permits crawling, unknown URL returned 404. Checked 35 additional links/targets: only USDA returned 403, which is unconfirmed automated reachability rather than a verified broken link. Both BougeRV and four Nilight targets returned 200. No new commercial links were added. Corrected source/published drift in the Nilight article, literal line breaks, policy output and sitemap dates; rebuild before publishing source changes.
+
+Search Console indexing/query data, analytics reports, affiliate clicks/conversions and revenue remain unknown in this run. SENT Gmail messages remain authoritative inquiry records; invitations and approvals are separate statuses.
