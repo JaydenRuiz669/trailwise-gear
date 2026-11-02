@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 1, 2026
+# Affiliate and partnership operations — updated November 2, 2026
 
 Status: BougeRV approval was confirmed in the connected inbox on October 29. The owner supplied a real Impact link for its sensor camping lantern. AvantLink declined the application on October 27; Bass Pro declined on October 29. Eastside Sports reported an inactive program. These are separate from outbound inquiries; an inquiry is not an application or approval. No sample or paid sponsorship has been confirmed. Exact account-visible commission terms, clicks, conversions and revenue remain unknown. Fees must remain $0. Do not use personal purchases to manufacture commissions.
 
@@ -77,3 +77,14 @@ Sent three new nonbinding review-sample/gifted-gear/possible paid integration in
 Live audit: 18 sitemap pages returned 200, robots permits crawling, unknown URL returned 404. Checked 35 additional links/targets: only USDA returned 403, which is unconfirmed automated reachability rather than a verified broken link. Both BougeRV and four Nilight targets returned 200. No new commercial links were added. Corrected source/published drift in the Nilight article, literal line breaks, policy output and sitemap dates; rebuild before publishing source changes.
 
 Search Console indexing/query data, analytics reports, affiliate clicks/conversions and revenue remain unknown in this run. SENT Gmail messages remain authoritative inquiry records; invitations and approvals are separate statuses.
+
+
+## November 2 operations record
+
+KSP Performance approval confirmed by connected CJ welcome email (received November 1 US Pacific / November 2 Central). The owner already sent a sample request November 2; do not duplicate it. Existing KSP homepage category links resolve to the correct KSP store categories. BougeRV, Nilight and KSP approvals remain distinct from unconfirmed sample or sponsorship offers. The main affiliate disclosure was updated to include the existing KSP relationship; no new tracking links added.
+
+AvantLink declined influencer application 1675097 on November 2, citing low engagement OR a private account and its usual several-thousand-followers criterion. The notice does not establish which reason applies. It expressly allows a reply with merchant correspondence. Sent one reply quoting Zenbivy's actual invitation to apply and asking whether it qualifies for reconsideration. Clearly stated that it followed our outreach and is neither an unsolicited merchant invitation nor merchant approval. No duplicate application submitted; reconsideration outcome pending. Do not claim AvantLink or Zenbivy approval.
+
+Sent three new nonbinding sample/gifted-gear/possible paid collaboration inquiries to Campingmoon, WUBEN and Klymit after Gmail history checks. Official contacts: https://www.campingmoon.com/pages/collab ; https://www.wubenlight.com/pages/wuben-ambassadors ; https://klymit.com/pages/our-commitment-to-accessibility (published customer-service address, asked to route to partnerships). No agreement, deliverable commitment or spending. SENT emails remain authoritative records.
+
+Live audit: 18 sitemap pages and robots returned 200; unknown URL returned 404. 39 additional targets checked: only USDA returned 403, not a confirmed broken page. All ten distinct affiliate destinations returned 200. No ActionHeat link found. Local metadata, internal-link, fragment, schema and sitemap checks pass. Search Console, analytics and affiliate performance reports remain unavailable; traffic, indexing, clicks, conversions and revenue are unknown.
