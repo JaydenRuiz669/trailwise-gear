@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 2, 2026
+# Affiliate and partnership operations — updated November 3, 2026
 
 Status: BougeRV approval was confirmed in the connected inbox on October 29. The owner supplied a real Impact link for its sensor camping lantern. AvantLink declined the application on October 27; Bass Pro declined on October 29. Eastside Sports reported an inactive program. These are separate from outbound inquiries; an inquiry is not an application or approval. No sample or paid sponsorship has been confirmed. Exact account-visible commission terms, clicks, conversions and revenue remain unknown. Fees must remain $0. Do not use personal purchases to manufacture commissions.
 
@@ -88,3 +88,14 @@ AvantLink declined influencer application 1675097 on November 2, citing low enga
 Sent three new nonbinding sample/gifted-gear/possible paid collaboration inquiries to Campingmoon, WUBEN and Klymit after Gmail history checks. Official contacts: https://www.campingmoon.com/pages/collab ; https://www.wubenlight.com/pages/wuben-ambassadors ; https://klymit.com/pages/our-commitment-to-accessibility (published customer-service address, asked to route to partnerships). No agreement, deliverable commitment or spending. SENT emails remain authoritative records.
 
 Live audit: 18 sitemap pages and robots returned 200; unknown URL returned 404. 39 additional targets checked: only USDA returned 403, not a confirmed broken page. All ten distinct affiliate destinations returned 200. No ActionHeat link found. Local metadata, internal-link, fragment, schema and sitemap checks pass. Search Console, analytics and affiliate performance reports remain unavailable; traffic, indexing, clicks, conversions and revenue are unknown.
+
+
+## November 3 operations record
+
+ALLPOWERS approval is confirmed in the connected CJ welcome email. The owner already sent a sample request today; no duplicate sent. Both existing ALLPOWERS CJ targets resolve correctly (US/global store and portable-power category). Updated the main affiliate disclosure and About copy to include ALLPOWERS; no new tracked links added. No sample or paid sponsorship offer confirmed.
+
+AvantLink's Michelle Mason clarified that Zenbivy's response inviting an application does not qualify as a direct unsolicited invitation. Its affiliate-management team must use the formal merchant invitation process. Replied to Zenbivy's existing thread with this factual update and asked whether its affiliate manager would consider the formal route. No duplicate application, repeated appeal or acceptance claimed. Await Zenbivy's response.
+
+Gmail initially returned a transient rate limit; a later retry succeeded before any sending. Verified no prior correspondence for NITECORE Store, Wise Owl Outfitters and Alpkit, then sent three personalized sample/gifted-gear/possible sponsorship inquiries. Official contact sources: https://nitecorestore.com/pages/contact ; https://wiseowloutfitters.com/policies/refund-policy ; https://alpkit.com/pages/marketing . SENT messages remain authoritative records. No legal terms, deliverables, rights or spending accepted.
+
+Live audit: 18 sitemap pages and robots returned 200; unknown path returned 404. All 12 distinct commercial destinations returned 200. Of 41 additional targets, only USDA returned 403 to automated checking (not a confirmed broken link). Source rebuild matched the committed public files before the disclosure update, and local publication checks pass. No automatic article volume added. Search Console, analytics and affiliate performance reports remain unavailable; visits, indexing, clicks, conversions and revenue are unknown.
