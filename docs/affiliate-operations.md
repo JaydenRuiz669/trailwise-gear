@@ -99,3 +99,31 @@ AvantLink's Michelle Mason clarified that Zenbivy's response inviting an applica
 Gmail initially returned a transient rate limit; a later retry succeeded before any sending. Verified no prior correspondence for NITECORE Store, Wise Owl Outfitters and Alpkit, then sent three personalized sample/gifted-gear/possible sponsorship inquiries. Official contact sources: https://nitecorestore.com/pages/contact ; https://wiseowloutfitters.com/policies/refund-policy ; https://alpkit.com/pages/marketing . SENT messages remain authoritative records. No legal terms, deliverables, rights or spending accepted.
 
 Live audit: 18 sitemap pages and robots returned 200; unknown path returned 404. All 12 distinct commercial destinations returned 200. Of 41 additional targets, only USDA returned 403 to automated checking (not a confirmed broken link). Source rebuild matched the committed public files before the disclosure update, and local publication checks pass. No automatic article volume added. Search Console, analytics and affiliate performance reports remain unavailable; visits, indexing, clicks, conversions and revenue are unknown.
+
+
+## November 4 operations record
+
+Zenbivy merchant approval and AvantLink limited network acceptance were confirmed in connected Gmail today. Access is limited to Zenbivy; do not claim general AvantLink network approval. The welcome advertises 4% commission, but full account terms and performance reports have not been inspected. No usable personal Zenbivy tracking link was supplied in the welcome: its creative links contain a placeholder authorization key. Do not publish those placeholders. Replied to Dom thanking him for the invitation and requesting the approved tracking URL or exact link-generation steps. Sent the content contact supplied in the authenticated welcome, dk@pressforward.agency, an exploratory review-sample/product-loan/possible paid collaboration inquiry. No sample, paid sponsorship, deliverable, rights grant or legal agreement confirmed.
+
+AvantLink says broader network review requires account setup including banking/tax information and at least five sales tracked and processed through the bank. Those sensitive setup steps are owner-only; no data was entered and no broader approval was claimed. Wise Owl says it has forwarded the inquiry internally; this is neither collaboration approval nor a sample offer. KSP's earlier request to info@ksperformance.com remains temporarily delivery-delayed, not a confirmed permanent bounce; no duplicate sent to that address.
+
+Sent the single permitted final follow-up to the October 26 OneTigris Camping, PACT Outdoors, OPENROAD, Lasfit and Renogy inquiries after seven business days. Each now leads with honest outdoor evaluation, gifted samples/loans and exploratory paid collaboration, with affiliate/site support secondary. Stop further follow-ups unless they respond. Gmail history revealed unanswered Fire Maple messages on October 9, 19 and 26; do not send another unless it responds. Eastside remains inactive; Hyke & Byke bounced; SOTO already received its final follow-up. October 27 unanswered inquiries are not due until November 5 at the earliest.
+
+Sent new personalized creator/sample inquiries to GSI Outdoors and BioLite, requesting routing to partnerships through their officially published support addresses. Verified Gmail history first: no previous matching correspondence. Official contact sources: https://gsioutdoors.com/policies/terms-of-service ; https://www.bioliteenergy.com/pages/biolite-pro-program-registration . Fit: compact cooksets/camp coffee and small lanterns for solo adventures. No new program applications, tracking links, purchases, agreements or posting commitments.
+
+Authoritative SENT IDs:
+- OneTigris final follow-up: 1a1a73a69c6946bc
+- PACT final follow-up: 1a1a73a6923f0b1f
+- OPENROAD final follow-up: 1a1a73a6bfb3890f
+- Lasfit final follow-up: 1a1a73a6c8734743
+- Renogy final follow-up: 1a1a73a6f0c244e8
+- Zenbivy enrollment/tracking reply: 1a1a73ab8b59cb2a
+- Zenbivy content-team inquiry: 1a1a73aba1b1af8a
+- GSI Outdoors first inquiry: 1a1a73b8ab525270
+- BioLite first inquiry: 1a1a73b8dae1f45b
+
+Website audit: all 18 sitemap URLs returned 200; robots.txt returned 200 and permits crawling; a unique nonexistent path returned 404. Checked 40 additional unique asset/external targets; USDA food-safety guidance returned 403 to automated access, so it is unverified rather than a confirmed broken link. All other checked targets returned 200. Reviewed representative cooking/recovery guides and the policies; no invented field testing found. Local publication checks pass for 19 HTML files, metadata, schema, internal paths/fragments and sitemap.
+
+Deployment remains unresolved: main commit 1e826bb8c5bf09fa6d0e0f808dbb7b1ea7f116a9 contains the November 3 ALLPOWERS disclosure/About corrections, but the live policy still says November 2 and omits ALLPOWERS. GitHub reports no check runs or statuses for that commit and no Actions runs; these are not successful deployment checks. Existing live ALLPOWERS links resolve, but the policy correction must be deployed. No Cloudflare deployment log or authenticated deployment-control tool is available in this run. Owner action: Cloudflare → Workers & Pages → trailwise-gear → Builds, retry/deploy the latest main commit and inspect any failed build log; preserve the existing Worker and configuration. See docs/deployment.md. This record does not claim a successful live update.
+
+Search Console, Cloudflare analytics reports and affiliate performance data remain unavailable. Indexing, visits, clicks, conversions and earnings are unknown. No automatic article volume added. This record covers this run only.
