@@ -1,6 +1,6 @@
-# Affiliate and partnership operations — updated November 4, 2026
+# Affiliate and partnership operations — updated November 5, 2026
 
-Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; no usable Zenbivy tracking URL is available yet. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
+Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
 | Candidate | Fit / decision | Verified public terms | Still to verify before application |
 |---|---|---|---|
@@ -128,3 +128,34 @@ Website audit: all 18 sitemap URLs returned 200; robots.txt returned 200 and per
 Deployment resolved during this run: the initial main commit 1e826bb8c5bf09fa6d0e0f808dbb7b1ea7f116a9 had no checks and its November 3 ALLPOWERS disclosure/About corrections were absent live. The operations-record push 521c8182b1210df03dc4971a23fb76320103461d triggered Workers Builds: trailwise-gear, which completed successfully. Live /affiliate-disclosure/ and /about/ now both include ALLPOWERS. The subsequent live audit rechecks page/link health. No Cloudflare account action is required for that resolved deployment; no credentials or configuration changed. A query-string cache-busting request was blocked with 403, but normal public paths with the audit browser user agent returned 200.
 
 Search Console, Cloudflare analytics reports and affiliate performance data remain unavailable. Indexing, visits, clicks, conversions and earnings are unknown. No automatic article volume added. This record covers this run only.
+
+
+## November 5 operations record
+
+Read current content plan, operations log, connected Gmail replies and SENT history. GSI Outdoors declined the creator partnership due to high partnership volume; Renogy declined gifted products, loans and paid collaborations. Respect both decisions and do not follow up. CJ's authenticated November 4 notification confirms ActionHeat program reactivation, superseding the earlier deactivation warning; no ActionHeat link was added. Gmail now confirms permanent failure of the old KSP request to info@ksperformance.com. The corrected inquiry to the official info@kspmotor.com address was already sent November 4; do not duplicate it.
+
+The owner supplied six Zenbivy product links and a collection was added November 4 in main commit a0ed708efb5867edc0e5ccfabd54991e190a5ff3. Its Workers Builds check completed successfully. The collection is live and explicitly labeled desk research, not a hands-on test. All six links initially return an AvantLink consent screen. Verified the actual destinations through the displayed decline-tracking option, without accepting tracking consent: Light Quilt (402), Flex Air Mattress (403), Core Quilt (411), Dry Sack (431), Overland ZipBed (692), Core ZipBed (697), each HTTP 200 at the matching Zenbivy product. This confirms navigation, not commission attribution, permitted placements or sales. The consent page identifies the linked publisher property as The Scenic Route YouTube channel; full account placement terms remain uninspected. No purchase or attribution test performed. An additional owner SENT sample inquiry to Dom and the content team on November 4 was found; no further Zenbivy outreach today.
+
+Fixed verified policy drift from that addition: main disclosure and About copy now include Zenbivy, privacy notice names AvantLink and links its official privacy policy, and sitemap modification dates reflect actual homepage/policy changes. Rebuilding also fixes the collection's published Open Graph title/description, which had incorrectly reused the homepage metadata; its sitemap modification date is November 5. Existing six tracking links and other commercial URLs are preserved; no new tracking links added. Rebuilt public output and local checks pass for 20 HTML files (19 indexable pages plus 404), internal paths/fragments, metadata, schema and sitemap. No template/layout changes or automatic new articles. Official privacy source: https://www.avantlink.com/privacy-policy/ .
+
+Pre-change live audit: all 19 sitemap pages and robots.txt returned 200; deliberately missing URL returned 404. Checked 46 additional unique asset/external targets: USDA camping-food guidance returned 403 to automated checking, not a confirmed broken page; the others returned 200, including all 18 distinct commercial targets after resolving Zenbivy's consent screen. Reviewed representative sleeping-pad and power-sizing guides and policies. Search Console, Cloudflare analytics reports and affiliate performance reports are not available; indexing, visits, clicks, conversions and revenue remain unknown.
+
+Sent one final permitted follow-up to each unanswered October 27 inquiry: Jackery, Paria Outdoor Products, Overland Solar, Mountain Ready and Morrison Outdoors, after seven business days. Morrison pitch concerns its adult Mega Mo, not child-product testing. Stop further follow-ups unless they respond. Official contacts reverified at:
+- https://www.jackery.com/pages/contact
+- https://www.pariaoutdoorproducts.com/pages/paria-outdoor-products-affiliate-program
+- https://www.overlandsolar.com/pages/affiliate-program
+- https://mountainready.online/pages/press-mountain-ready-affiliates-program
+- https://morrisonoutdoors.com/pages/affiliates-morrison-outdoors
+
+Sent new personalized nonbinding review-sample/gifted-gear/possible paid collaboration inquiries to Sofirn and FireHiking after verifying no earlier correspondence in Gmail. Contacts verified at https://www.sofirnlight.com/pages/contact-us (global@sofirnlight.com, explicitly for YouTubers) and https://www.firehiking.com/Contact-Us-n1766772.html (support@firehiking.com, asked to route to creator partnerships). Fit: compact lantern/headlamp and solo-camp shelter/cooking gear. No terms, rights, deliverables, posting dates, spending or favorable coverage accepted or promised. No new program application, sample shipment or sponsorship confirmed.
+
+Authoritative SENT records:
+- Jackery, final follow-up: 1a1ac6cd1ef675e4
+- Paria Outdoor Products, final follow-up: 1a1ac6cd2b7df597
+- Overland Solar, final follow-up: 1a1ac6cd67b946f2
+- Mountain Ready, final follow-up: 1a1ac6cdb0ee9846
+- Morrison Outdoors, final follow-up: 1a1ac6cddfddcd60
+- Sofirn, first inquiry: 1a1ac6d2874b4062
+- FireHiking, first inquiry: 1a1ac6d2ade4773b
+
+This record covers this run only. Verify the new policy deployment live before reporting success.
