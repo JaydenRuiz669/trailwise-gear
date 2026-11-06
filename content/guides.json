@@ -309,13 +309,19 @@
       [
         "USDA: handling food safely outdoors",
         "https://www.fsis.usda.gov/food-safety/safe-food-handling-and-preparation/food-safety-basics/food-safety-while-hiking-camping"
+      ],
+      [
+        "FDA: handling food safely while eating outdoors",
+        "https://www.fda.gov/food/buy-store-serve-safe-food/handling-food-safely-while-eating-outdoors"
       ]
     ],
     "related": [
       "first-car-camping-trip",
       "camping-stove-total-cost",
       "budget-camping-gear-buying-order"
-    ]
+    ],
+    "updated": "2026-11-06",
+    "source_note": "Original source guidance was checked on October 26, 2026. FDA outdoor-food guidance was added and checked on November 6, 2026. Buying recommendations are our editorial judgments. We have not tested these products."
   },
   {
     "slug": "camping-power-bank-sizing",

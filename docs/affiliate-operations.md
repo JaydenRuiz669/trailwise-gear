@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 5, 2026
+# Affiliate and partnership operations — updated November 6, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -159,3 +159,26 @@ Authoritative SENT records:
 - FireHiking, first inquiry: 1a1ac6d2ade4773b
 
 This record covers this run only. Verify the new policy deployment live before reporting success.
+
+
+## November 6 operations record
+
+Read both pipeline documents, connected Gmail and existing SENT history before outreach. No new substantive partner reply was found in the relevant current searches; GSI's satisfaction survey is not a reopened partnership. Existing declines and opt-outs remain honored, and the old failed KSP address is not retried. The corrected KSP request, Zenbivy review-sample inquiries and other recent messages remain awaiting replies. No eligible unanswered inquiry requiring its final follow-up today; older October 26/27 inquiries already received it or were rejected/answered. No samples, paid sponsorships, new program applications or new approvals confirmed in this run.
+
+Sent three new personalized exploratory review-sample/gifted-gear/product-loan/possible paid collaboration inquiries after Gmail duplicate checks. Lumintop: compact headlamp/camp lighting; SKILHUNT: hands-free solo-camp lighting, asked to route to reviewer team; Esbit: compact cookware/cooking kit, asked for US media routing. No product use, sales, channel average, guaranteed reach, deliverables, posting dates, favorable coverage or usage rights invented or promised. No agreement, purchase or rights grant accepted. The reported approximately 1.1K views refers to one Short only.
+
+Official contact sources:
+- Lumintop: https://lumintop.com/contact/ — sales@lumintop.com is the general inquiry contact.
+- SKILHUNT: https://www.skilhunt.com/wp-content/uploads/2024/04/EC200-USER-MANUAL-20240420.pdf — published service@skilhunt.com, asked to route to creator/reviewer staff. Its review page discusses reuse of reviewer media; no content or license was supplied and no program agreement accepted.
+- Esbit: https://esbit.de/en/policies/privacy-policy — esbit@esbit.de is the company contact, not its separate data-protection officer. Asked for the US creator/media team.
+
+Authoritative SENT records:
+- Lumintop: 1a1b1687f2f190d1
+- SKILHUNT: 1a1b168817d6f2bc
+- Esbit: 1a1b168827ff4385
+
+Initial main commit 0ccb2671beba9a2b27e3aebff26a1796f06fad91 has a successful Workers Builds check. Live audit: all 19 sitemap pages and robots returned 200; unknown path returned 404. Checked 47 unique additional internal-asset/external targets: only USDA returned 403, an automated reachability limitation rather than a verified broken page. Other targets returned 200. AvantLink links may initially show consent rather than a product; their matching product destinations were separately verified November 5, and today's endpoint availability is not an attribution/sales test. Reviewed representative used-tent and cooler guides plus policies. Local checks pass for 20 HTML files, internal paths/fragments, headings, metadata, schema and sitemap.
+
+Useful source refresh: added https://www.fda.gov/food/buy-store-serve-safe-food/handling-food-safely-while-eating-outdoors to the existing cooler guide, verified HTTP 200 and checked the stated cold-storage/time guidance against the official page. Original USDA source remains. Added an explicit per-guide source note so the new FDA reference carries its actual November 6 review date without pretending all original sources were freshly checked. Rebuilt only the affected guide/sitemap and source files. No new articles, commercial links or template/layout changes. Deploy and verify live before reporting the update as published.
+
+The owner's November 6 CJ screenshot provides a bounded account-report snapshot, separate from live metrics and from website analytics. Reviewed it privately; do not publish account screenshot or detailed performance figures in this public repository. Current live Search Console, Cloudflare and affiliate report access is unavailable. Site visits, unique visitors, current cross-network conversions/revenue and attribution remain unknown. No purchase or revenue test performed. This record covers this run only.
