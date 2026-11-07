@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 6, 2026
+# Affiliate and partnership operations — updated November 7, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -182,3 +182,26 @@ Initial main commit 0ccb2671beba9a2b27e3aebff26a1796f06fad91 has a successful Wo
 Useful source refresh: added https://www.fda.gov/food/buy-store-serve-safe-food/handling-food-safely-while-eating-outdoors to the existing cooler guide, verified HTTP 200 and checked the stated cold-storage/time guidance against the official page. Original USDA source remains. Added an explicit per-guide source note so the new FDA reference carries its actual November 6 review date without pretending all original sources were freshly checked. Rebuilt only the affected guide/sitemap and source files. No new articles, commercial links or template/layout changes. Deploy and verify live before reporting the update as published.
 
 The owner's November 6 CJ screenshot provides a bounded account-report snapshot, separate from live metrics and from website analytics. Reviewed it privately; do not publish account screenshot or detailed performance figures in this public repository. Current live Search Console, Cloudflare and affiliate report access is unavailable. Site visits, unique visitors, current cross-network conversions/revenue and attribution remain unknown. No purchase or revenue test performed. This record covers this run only.
+
+
+## November 7 operations record
+
+Read current content plan and operations log, then connected Gmail replies and SENT history. Dom at Zenbivy confirmed he will remain the content-inquiry contact and works closely with Danny. He reconfirmed the existing affiliate approval; this is not a new sample or paid sponsorship offer. The owner already sent a thank-you reply on November 6 US Central / November 7 UTC, confirming that setup is complete and the links are on Trailwise Gear (SENT 1a1b3af05b552bf5). Do not duplicate that reply or repeat the pending sample request. Continue Zenbivy content correspondence with Dom through friends@zenbivy.com unless directed otherwise.
+
+No eligible final follow-up was due today. Previously rejected brands remain stopped; recent sample requests and the corrected KSP address remain awaiting replies. No new approval, tracking link, sample shipment, paid sponsorship or program application confirmed in this run.
+
+Sent new individual exploratory review-sample/gifted-gear/product-loan/possible paid collaboration inquiries to Outdoor Vitals, Chillbo and Trekology. Verified no prior matching Gmail correspondence before sending. Fit: compact sleep/backpacking gear, inflatable camp seating, and small chairs/pillows for solo adventures. Asked official support teams to route to creator partnerships. Each pitch says Trailwise Gear is new and research-based, no use of that brand's products is claimed, and the reported approximately 1.1K views refers to one Short only, not an average or guarantee. No spending, purchases, posting dates, deliverables, favorable coverage, rights grants or agreements accepted.
+
+Official contact sources checked November 7:
+- Outdoor Vitals: https://outdoorvitals.com/pages/contact — support@outdoorvitals.com
+- Chillbo: https://www.chillbo.com/pages/refund-policy — hello@chillbo.com
+- Trekology: https://trekology.com/pages/support — support@trekology.com
+
+Authoritative SENT records:
+- Outdoor Vitals: 1a1b6b3a8507e202
+- Chillbo: 1a1b6b3ad053dc34
+- Trekology: 1a1b6b3b1c67ea90
+
+Website: main commit 53ed08b2e8a54f17f0f25f26c4c3e24106564c55 has a successful Workers Builds check. All 19 sitemap pages and robots.txt returned HTTP 200, and a unique missing path returned 404. Checked 48 additional unique asset/external endpoints; USDA food guidance still returned 403 to automated checking, not a confirmed broken page. The other endpoints returned 200, including the FDA backup source added November 6. AvantLink may return a consent interstitial; HTTP 200 is not an attribution test, and matching six-product destinations were separately confirmed November 5. Reviewed homepage, budget-buying and 2WD guides plus editorial/disclosure/privacy policies. Local checks pass for 20 HTML files, metadata, schema, internal paths/fragments and sitemap; regeneration matches committed public output exactly. No verified public website issue required a change today. No article volume, commercial links or public page dates changed.
+
+No newer authorized performance report is available. The November 6 owner-supplied CJ screenshot remains a bounded historical snapshot, not live site traffic or cross-network earnings. Current Search Console, Cloudflare and affiliate performance access remains unavailable; current indexing, visits, clicks, conversions and total revenue remain unknown. This record covers this run only.
