@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 7, 2026
+# Affiliate and partnership operations — updated November 8, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -205,3 +205,28 @@ Authoritative SENT records:
 Website: main commit 53ed08b2e8a54f17f0f25f26c4c3e24106564c55 has a successful Workers Builds check. All 19 sitemap pages and robots.txt returned HTTP 200, and a unique missing path returned 404. Checked 48 additional unique asset/external endpoints; USDA food guidance still returned 403 to automated checking, not a confirmed broken page. The other endpoints returned 200, including the FDA backup source added November 6. AvantLink may return a consent interstitial; HTTP 200 is not an attribution test, and matching six-product destinations were separately confirmed November 5. Reviewed homepage, budget-buying and 2WD guides plus editorial/disclosure/privacy policies. Local checks pass for 20 HTML files, metadata, schema, internal paths/fragments and sitemap; regeneration matches committed public output exactly. No verified public website issue required a change today. No article volume, commercial links or public page dates changed.
 
 No newer authorized performance report is available. The November 6 owner-supplied CJ screenshot remains a bounded historical snapshot, not live site traffic or cross-network earnings. Current Search Console, Cloudflare and affiliate performance access remains unavailable; current indexing, visits, clicks, conversions and total revenue remain unknown. This record covers this run only.
+
+
+## November 8 operations record
+
+Read both current pipeline documents and connected Gmail. CJ notified that ReadyWise | ReadyWise Outdoor | Wise Food Storage (7028702) is deactivated; referrals during deactivation do not earn commissions. Stop new ReadyWise promotion until authenticated reactivation. Searched all public assets, content and builder sources for ReadyWise/name/CID; no existing placement found. Also inspected the live pages and all commercial endpoint destinations: no ReadyWise link or destination found. No website link removal was necessary. This does not claim that every YouTube or Instagram placement or the private CJ invalid-links report was inspected; those account reports are unavailable.
+
+No other new substantive partner response, sample shipment, paid sponsorship, approval or program application confirmed in this run. Existing declined brands remain stopped. Dom remains Zenbivy's content contact; the owner's thank-you was already sent. No duplicate Zenbivy correspondence.
+
+Verified Gmail history revealed an additional unanswered Rhino USA inquiry from October 27 (SENT 1a17d8a1c1ce07a6), outside the prompt's abbreviated original list. There was no later message in the domain history. Sent its single permitted final follow-up after more than seven business days. Do not send another unless Rhino responds. Asked about a suitable practical accessory and evaluation terms; no recovery maneuver, fitment, training credential or safe-use assessment claimed. Other recent inquiries are not yet due for follow-up; previously completed final follow-ups are not repeated.
+
+Sent new personalized nonbinding sample/gifted-gear/product-loan/possible paid collaboration inquiries to KingCamp and ICECO after official-contact verification and Gmail duplicate checks, including both kingcamp.com and kingcampoutdoors.com. Fit: compact camp furniture/setup equipment and small-truck powered cooling with practical space/power considerations. Used the current official ICECO marketing address, not a third-party contact from a five-year-old campaign. Trailwise Gear is disclosed as new, existing guides as research-based, and the approximately 1.1K views as one Short's performance rather than an average or promise. No product experience, sales, testing, guaranteed reach, favorable coverage, dates, deliverables, purchases, terms or rights agreed.
+
+Official contact sources checked November 8:
+- KingCamp: https://www.kingcampoutdoors.com/policies/contact-information — support@kingcamp.com
+- ICECO: https://icecofreezer.com/pages/faq-and-troubleshooting — marketing@icecofreezer.com
+- Rhino USA: https://www.rhinousainc.com/pages/brand-ambassador-program — basupport@rhinousainc.com
+
+Authoritative SENT records:
+- KingCamp, first inquiry: 1a1bbd0becfca691
+- ICECO, first inquiry: 1a1bbd0c1f0e6ddc
+- Rhino USA, final follow-up: 1a1bbd0c3ef2ce71
+
+Website audit: main commit deb52981753457fe65fd658d42cc2a2974e40ed2 has a successful Workers Builds check. All 19 sitemap URLs and robots.txt returned 200; a unique missing path returned 404. Checked 48 additional unique internal-asset/external endpoints: only USDA food guidance returned 403 to automated access (not a confirmed broken page); the FDA backup source returns 200. All 18 commercial endpoints return 200; AvantLink may return its consent page, not a verified attribution event. Six matching product destinations were verified November 5. Twenty normal downloaded resources, including robots and HTML pages, match their repository files exactly. Inspected homepage, first-camping and stove-comparison guides, editorial/disclosure/privacy policies. Local checks pass for 20 HTML files, internal paths/fragments, headings, metadata, schema and sitemap; rebuilding yields no public drift. No verified public issue required a source/content change. No new monetized links, articles or public dates added.
+
+No newer authorized performance data is available: the November 6 owner CJ screenshot remains a historical snapshot. Current Search Console indexing/query reports, Cloudflare analytics and live cross-network clicks/conversions/earnings remain unavailable and unknown. No attribution purchase or revenue test. This record covers this run only.
