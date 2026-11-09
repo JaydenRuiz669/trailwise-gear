@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 8, 2026
+# Affiliate and partnership operations — updated November 9, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -230,3 +230,24 @@ Authoritative SENT records:
 Website audit: main commit deb52981753457fe65fd658d42cc2a2974e40ed2 has a successful Workers Builds check. All 19 sitemap URLs and robots.txt returned 200; a unique missing path returned 404. Checked 48 additional unique internal-asset/external endpoints: only USDA food guidance returned 403 to automated access (not a confirmed broken page); the FDA backup source returns 200. All 18 commercial endpoints return 200; AvantLink may return its consent page, not a verified attribution event. Six matching product destinations were verified November 5. Twenty normal downloaded resources, including robots and HTML pages, match their repository files exactly. Inspected homepage, first-camping and stove-comparison guides, editorial/disclosure/privacy policies. Local checks pass for 20 HTML files, internal paths/fragments, headings, metadata, schema and sitemap; rebuilding yields no public drift. No verified public issue required a source/content change. No new monetized links, articles or public dates added.
 
 No newer authorized performance data is available: the November 6 owner CJ screenshot remains a historical snapshot. Current Search Console indexing/query reports, Cloudflare analytics and live cross-network clicks/conversions/earnings remain unavailable and unknown. No attribution purchase or revenue test. This record covers this run only.
+
+
+## November 9 operations record
+
+Read both pipeline documents and connected Gmail history. No new substantive partner offer, approval, sample shipment or paid sponsorship was found in current relevant searches. ReadyWise remains deactivated; no new links added. Existing declines, opt-outs and completed final follow-ups remain stopped. BougeRV history includes an explicit sample-request follow-up already sent October 29 (1a18866450c71d5b), so no additional unanswered follow-up was sent. Recent first inquiries are not yet due under the seven-business-day rule. No duplicate Zenbivy correspondence.
+
+Sent new personalized exploratory creator inquiries to RUX and STEP 22 after official contact verification and Gmail domain/name duplicate checks. Fit: moving a solo camp kit from truck to campsite, accessible storage and practical tool/gear organization. Asked about gifted samples, product loans and possible paid collaboration, with supporting website content/approved affiliate distribution. Disclosed the new research-based website, no experience with either brand's equipment, and approximately 1,100 views on one recent Short only. No average reach, sales, favorable review, dates, deliverables, rights or agreements promised. STEP 22's selective program and broader AvantLink access restriction were acknowledged; this is an inquiry, not a submitted application or approval.
+
+Official sources checked November 9:
+- RUX: https://rux.life/pages/contact — hello@rux.life; https://rux.life/ for its storage range.
+- STEP 22: https://step22gear.com/pages/influencers-affiliates — affiliate@step22gear.com and its invitation for specific proposals. No program terms accepted.
+
+Authoritative SENT records, verified in Gmail:
+- RUX first inquiry: 1a1c10b8a8865c44
+- STEP 22 first inquiry: 1a1c10b8d3d7c83c
+
+Website: initial main 5d9f2a93c50ecada5ea0802e0148a5f95e1e5112 has a successful Workers Builds check. All 19 sitemap URLs plus the new Nilight landing page and robots returned 200; unique missing path returned 404. Checked 49 additional asset/external endpoints; only USDA returned 403 to automated checking, not a confirmed broken page. FDA backup returned 200. Commercial endpoints returned 200; AvantLink consent interstitials are not proof of product navigation or attribution, with actual six-product destinations separately checked November 5. Reviewed homepage, power-sizing/recovery guides, policies and new Nilight page. Existing ordinary page content matches the repository.
+
+Verified issue: the manually added Nilight landing page failed the existing JSON-LD check, had no source-build input and was absent from the sitemap. Added content/pages/nilight-light-bar.html as the reproducible source, WebPage structured data and og:url, and sitemap inclusion. Preserved the page design, owner-attributed experience, disclosures and actual tracking links. Updated editorial pipeline count to 20 indexable pages. Rebuilt public output; checks pass for 21 HTML files including custom 404, metadata, schema, internal paths/fragments and sitemap. No new article volume, monetized links or affiliate relationships. Verify the resulting deployment live before reporting publication.
+
+No current authorized Search Console, Cloudflare or live affiliate performance reports are available. The owner's November 6 CJ screenshot remains historical; current indexing, visits, cross-network clicks/conversions/revenue and attribution remain unknown. No purchase/revenue test. This record describes this run only.

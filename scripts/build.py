@@ -71,4 +71,8 @@ sitemap_path=OUT/'sitemap.xml'
 sitemap_html=sitemap_path.read_text()
 sitemap_path.write_text(sitemap_html.replace('</urlset>','<url><loc>'+BASE+'/zenbivy-sleep-gear/</loc><lastmod>2026-11-05</lastmod></url></urlset>'))
 
-print(f'Built {len(urls)+1} indexable pages, custom 404, sitemap and robots.txt')
+# Preserve the owner-experience landing page in the reproducible source build.
+write('nilight-light-bar/index.html', (ROOT/'content/pages/nilight-light-bar.html').read_text())
+sitemap_html=sitemap_path.read_text()
+sitemap_path.write_text(sitemap_html.replace('</urlset>', '<url><loc>'+BASE+'/nilight-light-bar/</loc><lastmod>2026-11-09</lastmod></url></urlset>'))
+print(f'Built {len(urls)+2} indexable pages, custom 404, sitemap and robots.txt')
