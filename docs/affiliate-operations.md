@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 9, 2026
+# Affiliate and partnership operations — updated November 10, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -251,3 +251,36 @@ Website: initial main 5d9f2a93c50ecada5ea0802e0148a5f95e1e5112 has a successful 
 Verified issue: the manually added Nilight landing page failed the existing JSON-LD check, had no source-build input and was absent from the sitemap. Added content/pages/nilight-light-bar.html as the reproducible source, WebPage structured data and og:url, and sitemap inclusion. Preserved the page design, owner-attributed experience, disclosures and actual tracking links. Updated editorial pipeline count to 20 indexable pages. Rebuilt public output; checks pass for 21 HTML files including custom 404, metadata, schema, internal paths/fragments and sitemap. No new article volume, monetized links or affiliate relationships. Verify the resulting deployment live before reporting publication.
 
 No current authorized Search Console, Cloudflare or live affiliate performance reports are available. The owner's November 6 CJ screenshot remains historical; current indexing, visits, cross-network clicks/conversions/revenue and attribution remain unknown. No purchase/revenue test. This record describes this run only.
+
+
+## November 10 operations record
+
+Read both current pipeline documents, Gmail replies and SENT records before acting. ICECO declined collaboration for now because its promotional schedule is full (reply 1a1c330e3ce95be9); stop unsolicited follow-ups unless ICECO reopens the conversation. No review sample shipment or paid sponsorship confirmed.
+
+Amazfit US sent a CJ affiliate welcome message November 9 (1a1c2537a53d822e). No account-visible contract status or real tracking link is available in the message. Asked its officially published affiliate contact to route to the US/CJ manager, confirm active relationship and permitted website/YouTube placements, provide actual tracking-link access and consider a suitable outdoor-watch sample/loan or paid collaboration. Do not treat the inquiry as a new application, invent tracking URLs, publish advertised rates as accepted terms or add monetized links until details are confirmed. Official contact: https://eu.amazfit.com/pages/amazfit-affiliate-program — affiliates@zepp.com; the page describes Impact in that region, so US/CJ routing was explicitly requested. US outdoor-product context: https://us.amazfit.com/pages/contact-us .
+
+SENT history also revealed seven additional November 9 inquiries from another owner conversation: VEVOR (1a1c27e06c6ea0d8), Superwinch (1a1c27e0c6b84a58), X-BULL (1a1c27e11574e214), Bunker Indust (1a1c2803f1617eb2), TRE4X4 (1a1c280455042b59), MAXTRAX USA (1a1c2804b6014291), TRED Outdoors (1a1c2804f7b05602). Preserve these authoritative records and do not duplicate their first inquiries or follow up early. Superwinch and Rhino-Rack/MAXTRAX automated ticket acknowledgements are not offers. MAXTRAX's human support reply (1a1c28ad978b7497) routes sponsorship/content requests to https://wkf.ms/4lWi1gc , which redirects to https://forms.monday.com/forms/eea91f968614895f5ec5ffc5ff87ba21?r=use1 . The live form requires name, business email, sponsorship type, requested products, proposal and a reCAPTCHA; YouTube/website/social links and attachments are optional. Inspected it, but did not submit, solve CAPTCHA, upload files or accept terms. Owner action is needed to complete its human-verification step; this is not a program application sent or an approval.
+
+Sent the single permitted final follow-up to Grand Trunk, Kammok and FLEXTAIL after seven business days from October 30, and to Nilight's sample inquiry after at least seven business days from its October 31 date. Domain history showed no intervening replies or later follow-ups. Stop further unsolicited follow-ups unless they respond. Kammok correspondence explicitly remains an exploratory question, not an application or acceptance of its program terms.
+
+Official follow-up contacts reverified November 10:
+- Grand Trunk: https://www.grandtrunk.com/pages/contact — llama@grandtrunk.com
+- Kammok: https://kammok.com/pages/kammok-creator-ambassador-program-terms-and-conditions — ambassadors@kammok.com. Viewed only; did not apply or agree.
+- FLEXTAIL: https://www.flextail.com/pages/contact-us — support@flextail.com
+- Nilight: https://www.nilight.com/pages/contact-nilight — support@nilight.com
+
+Sent a new individual exploratory review-sample/loan/possible paid collaboration inquiry to Sea to Summit, requesting North American creator/media routing and proposing a compact solo-camp kitchen story. No prior domain/name correspondence was found in Gmail. Official general support contact verified at https://seatosummit.com/policies/terms-of-service — info@seatosummit.com; no terms accepted. GEAR AID was also researched, but no verified US email was found, so no email was guessed or sent. Its official partner form remains a possible future route: https://www.gearaid.com/pages/partner-with-us-form .
+
+All new pitches disclose the new research-based website and no personal testing of the requested brand; approximately 1,100 views is one recent Short only, not average reach or a guarantee. No spending, discounts purchased, products ordered, posting dates, contractual deliverables, favorable coverage or media rights promised or accepted.
+
+Authoritative SENT records verified in Gmail:
+- Grand Trunk final follow-up: 1a1c604fe7c2d586
+- Kammok final follow-up: 1a1c605013189d04
+- FLEXTAIL final follow-up: 1a1c60505d7bd72c
+- Nilight final sample follow-up: 1a1c605065c8ce57
+- Amazfit first creator/routing inquiry: 1a1c6050b039d80d
+- Sea to Summit first inquiry: 1a1c605ddaf83505
+
+Website deployment resolution: yesterday's commit 2930818cceade5c5a1b00cd8fe5617ab95c9bfd7 has a successful Workers Builds check, and today's live Nilight page now contains its structured data while sitemap.xml includes /nilight-light-bar/. All checked live HTML/robots match the committed public output exactly; no owner redeploy action is needed for that earlier mismatch. All 20 indexable pages and robots return 200, and a unique missing path returns 404. Checked 49 additional unique asset/external targets; only USDA returns 403 to automated access, not a confirmed broken page. FDA backup works. AvantLink endpoints can show consent interstitials; endpoint availability is not commission attribution or a new navigation test. Reviewed homepage, stove-comparison and used-tent guides and editorial/disclosure/privacy policies. Rebuilding yields no public drift. Existing checks pass for 21 HTML files, metadata, schema, internal paths/fragments and sitemap. No verified public issue requires another content change, and no automatic new articles, links or public freshness dates were added.
+
+Reviewed the owner's newer November 9 Cloudflare screenshots as bounded historical observations, separately from the November 6 CJ screenshot. Private account figures are not published here. Their request/visit counters do not establish unique human audience, attributable sales or current live metrics and may include operational checks. Current authorized Search Console query/indexing reports, live Cloudflare reporting and affiliate conversions/revenue remain unavailable and unknown. No attribution purchase or revenue test. This record covers this run only.
