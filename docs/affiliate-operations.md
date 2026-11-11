@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 10, 2026
+# Affiliate and partnership operations — updated November 11, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -284,3 +284,34 @@ Authoritative SENT records verified in Gmail:
 Website deployment resolution: yesterday's commit 2930818cceade5c5a1b00cd8fe5617ab95c9bfd7 has a successful Workers Builds check, and today's live Nilight page now contains its structured data while sitemap.xml includes /nilight-light-bar/. All checked live HTML/robots match the committed public output exactly; no owner redeploy action is needed for that earlier mismatch. All 20 indexable pages and robots return 200, and a unique missing path returns 404. Checked 49 additional unique asset/external targets; only USDA returns 403 to automated access, not a confirmed broken page. FDA backup works. AvantLink endpoints can show consent interstitials; endpoint availability is not commission attribution or a new navigation test. Reviewed homepage, stove-comparison and used-tent guides and editorial/disclosure/privacy policies. Rebuilding yields no public drift. Existing checks pass for 21 HTML files, metadata, schema, internal paths/fragments and sitemap. No verified public issue requires another content change, and no automatic new articles, links or public freshness dates were added.
 
 Reviewed the owner's newer November 9 Cloudflare screenshots and November 9 CJ last-30-days screenshot as bounded historical observations, superseding reliance on the November 6 CJ snapshot for the latest available owner report. Sea to Summit's automated acknowledgement (1a1c6062d1a2fbfc) confirms receipt only, not partnership interest or approval. Private account figures are not published here. Their request/visit counters do not establish unique human audience, attributable sales or current live metrics and may include operational checks. Current authorized Search Console query/indexing reports, live Cloudflare reporting and affiliate conversions/revenue remain unavailable and unknown. No attribution purchase or revenue test. This record covers this run only.
+
+
+## November 11 operations record
+
+Read current content plan, this log, relevant Gmail replies and SENT history. No new substantive partner reply, sample shipment, paid sponsorship, tracking link or approval found in current searches. Sea to Summit's receipt acknowledgement remains administrative only. ICECO, Renogy and GSI declines remain stopped; ReadyWise remains on promotion hold. Amazfit US/CJ relationship details and sample inquiry remain awaiting confirmation. No new monetized link added.
+
+MAXTRAX status supersedes yesterday's unfinished-form note: the owner supplied a November 10 screenshot of the MAXTRAX-branded confirmation page stating that the application was received and the team would email if approved. Record one sponsorship application submitted by the owner, awaiting review. This is not affiliate approval or a sample offer. Do not repeat the application or send a duplicate inquiry, and no CAPTCHA/account action remains outstanding for that submitted form.
+
+Sent the single permitted final follow-up for the four unanswered October 31 inquiries after at least seven business days had elapsed: TOAKS (compact pot/utensil kit), LuminAID (packable solar lantern), VARGO (compact cookware/utensils) and UCO (small camp light/meal accessories). Full domain Gmail history showed no intervening replies or later follow-ups. Stop further unsolicited follow-ups unless they respond. No purchases, dates, deliverables, positive conclusions or content rights promised. Messages ask concrete sample availability, gifted/returnable status, proposed conditions and next steps, with paid collaborations open for discussion.
+
+Follow-up contacts reverified November 11 on official sources:
+- TOAKS: https://www.toaksoutdoor.com/pages/contact-us — info@toaksoutdoor.com
+- LuminAID: https://luminaid.com/pages/press — press@luminaid.com
+- VARGO: https://vargooutdoors.com/pages/affiliate-program — info@vargooutdoors.com
+- UCO: https://ucogear.com/policies/refund-policy — info@ucogear.com; contacted existing recipient for creator routing, not a return request.
+
+Sent new personalized exploratory creator pitches to Onewind and VSSL after Gmail domain/name duplicate checks. Onewind: solo hammock/tarp setup and practical usability. Official partnership contact: https://www.onewindoutdoors.com/pages/faqs — sales@onewindoutdoors.com. VSSL: coffee-at-camp packing, setup and cleanup; official general support contact at https://www.vsslgear.com/a/faq — support@vsslgear.com, asked to route to creator/media partnerships. Used current official contacts rather than third-party guessed emails. Boundless Voyage was researched but not contacted because multiple similar storefront/domain identities were not sufficiently resolved.
+
+Both new pitches ask for gifted review samples, evaluation loans or discussion of potential paid collaboration; the new research-based website and absence of personal testing of those brands are clear. The approximately 1,100 views refers to one recent Short, not a channel average or guaranteed reach. Affiliate links and website coverage are possible supporting distribution only if separately approved. No specific dates, contractual deliverables, favorable coverage, rights, purchases or agreements promised or accepted.
+
+Authoritative SENT records, verified in Gmail:
+- TOAKS final follow-up: 1a1cb4ece828f4d2
+- LuminAID final follow-up: 1a1cb4ed2a48fef6
+- VARGO final follow-up: 1a1cb4ed535dd309
+- UCO final follow-up: 1a1cb4ed66175ac0
+- Onewind first inquiry: 1a1cb4ed834a4be2
+- VSSL first inquiry: 1a1cb4edb45009cd
+
+Website audit: main 458ac35b49985c723cb9ce904e6024405695b005 has a successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; unique missing path returns 404. Robots permits crawling and points to the correct sitemap. Checked 49 additional unique asset/external targets; only USDA food guidance returns 403 to automated access, a checking limitation rather than a confirmed broken link. FDA backup remains accessible. Live page/robots content matches repository output with no drift. Reviewed homepage, first-camping/2WD guides and editorial/disclosure/privacy policies. Rebuild matches committed public assets, and checks pass for 21 HTML files, internal links/fragments, metadata, schema and sitemap. Nilight metadata/sitemap correction remains live. No verified public issue requires a source edit today, and no automatic article volume, freshness dates or commercial links were added.
+
+No newer authorized live performance report available. November 9 owner Cloudflare/CJ screenshots remain bounded historical observations; do not substitute requests or operational checks for unique human audience or attributed conversions. Current Search Console queries/indexing, live Cloudflare traffic and current cross-network conversions/revenue remain unknown. No attribution purchase or revenue test. This record describes this run only.
