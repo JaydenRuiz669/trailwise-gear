@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 11, 2026
+# Affiliate and partnership operations — updated November 12, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -315,3 +315,36 @@ Authoritative SENT records, verified in Gmail:
 Website audit: main 458ac35b49985c723cb9ce904e6024405695b005 has a successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; unique missing path returns 404. Robots permits crawling and points to the correct sitemap. Checked 49 additional unique asset/external targets; only USDA food guidance returns 403 to automated access, a checking limitation rather than a confirmed broken link. FDA backup remains accessible. Live page/robots content matches repository output with no drift. Reviewed homepage, first-camping/2WD guides and editorial/disclosure/privacy policies. Rebuild matches committed public assets, and checks pass for 21 HTML files, internal links/fragments, metadata, schema and sitemap. Nilight metadata/sitemap correction remains live. No verified public issue requires a source edit today, and no automatic article volume, freshness dates or commercial links were added.
 
 No newer authorized live performance report available. November 9 owner Cloudflare/CJ screenshots remain bounded historical observations; do not substitute requests or operational checks for unique human audience or attributed conversions. Current Search Console queries/indexing, live Cloudflare traffic and current cross-network conversions/revenue remain unknown. No attribution purchase or revenue test. This record describes this run only.
+
+
+## November 12 operations record
+
+Read both current pipeline documents and relevant Gmail/SENT history. No new substantive partner response, approval, sample shipment or paid sponsorship found in current relevant searches. No new tracking details available. MAXTRAX application remains owner-submitted November 10 and awaiting review; do not repeat. Existing declines/opt-outs and completed final follow-ups remain stopped. Klymit's two automated November 2 receipt messages are administrative acknowledgements, not partnership interest or a human decision. Amazfit confirmation remains pending; no monetized links added.
+
+Sent the single permitted final follow-up for the three unanswered November 1 inquiries (Naturehike, ENO, TETON) and three November 2 inquiries (Campingmoon, WUBEN, Klymit). At least seven business days elapsed, including exclusion of weekends and November 11 holiday. Domain Gmail history, TETON's older tetonsports.com domain and prior messages were checked: no substantive replies or intervening follow-ups. Klymit follow-up references existing ticket 404528. Stop further unsolicited follow-ups unless they respond. Each asks concrete sample availability, gifted/returnable status, conditions and next steps; paid opportunities are open for discussion, with no dates, deliverables, rights or favorable coverage committed.
+
+Official contacts reverified November 12:
+- Naturehike: https://www.naturehike.com/pages/affiliate — collab@naturehike.com
+- ENO: https://eaglesnestoutfittersinc.com/pages/contact-us — mail@enonation.com
+- TETON: https://tetongear.com/pages/contact-us — info@tetongear.com
+- Campingmoon: https://www.campingmoon.com/pages/contact-us — info1@campingmoon.com
+- WUBEN: https://www.wubenlight.com/pages/wuben-ambassadors — Alan@wubenlight.com
+- Klymit: https://klymit.com/pages/our-commitment-to-accessibility publishes support@klymit.com; also verified active recipient through its existing ticket acknowledgements. Used existing thread for creator routing, not an accessibility complaint.
+
+Sent new individual creator pitches to Jetboil's PR contact and Primus US after full-brand/domain duplicate checks, including Darby Communications and Primus name search. Jetboil: compact integrated stove for a solo-adventure meal, requesting separate media evaluation/sample or paid-collaboration routing. Official brand page https://jetboil.johnsonoutdoors.com/us/ambassadors says 2026 ambassador applications are closed; this was acknowledged explicitly, and no closed-program application or agreement was submitted. Current agency page https://www.darbycommunications.com/outdoor-marketing-agency/ identifies Jetboil as a client and lists Katie Richter (katie@darbycommunications.com); brand-issued historical PR releases also identify her Jetboil contact role. Primus: compact stove plus compatible cookware and complete-kit packing/setup/usability, requesting US creator/media routing. Official contact https://primus.us/pages/contact publishes sales@primus.us as its general inquiry destination.
+
+Both new pitches request gifted review samples, evaluation loans or discussion of possible paid collaboration. Supporting Trailwise Gear articles and approved affiliate distribution are secondary. Website disclosed as new and research-based. The approximately 1,100 views is one recent daily Short only, not a channel average or guaranteed reach. No performance testing, ownership, sales or other audience metrics invented. No spending, posting dates, contractual deliverables, favorable conclusions, usage rights or legal agreements promised or accepted.
+
+Authoritative SENT records verified in Gmail:
+- Naturehike final follow-up: 1a1d05d2e0457d08
+- ENO final follow-up: 1a1d05d32b069c92
+- TETON final follow-up: 1a1d05d36dbb72df
+- Campingmoon final follow-up: 1a1d05d3cc02809d
+- WUBEN final follow-up: 1a1d05d406f2bf42
+- Klymit final follow-up: 1a1d05d43cd9e543
+- Jetboil first PR/sample inquiry: 1a1d05d456cd741b
+- Primus first inquiry: 1a1d05d46852ff9b
+
+Website audit: initial main 0d0c012cc5411c8e4e91beb88941fe620d3a1aea has a successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; a unique missing path returns 404. Robots allows crawling and points to the correct sitemap. Checked 49 additional unique asset/external targets: only USDA food guidance returns 403 to automated access, not a confirmed broken page. FDA backup works. AvantLink may return consent interstitials; endpoint availability is not commission attribution. Live normal HTML/robots match repository output with no drift. Reviewed homepage, foam/inflatable-pad and cooler guides, policies, metadata and disclosures. Regeneration exactly matches committed public assets. Checks pass for 21 HTML files, internal paths/fragments, headings, metadata, schema and sitemap. No verified public issue needs a change today; no automatic articles, freshness dates or affiliate links added.
+
+No newer authorized performance report is available in this run. November 9 owner Cloudflare/CJ screenshots remain bounded historical observations, not a live analytics connection. Current Search Console queries/indexing, live Cloudflare visits and current cross-network conversions/revenue remain unknown. No purchase/attribution or revenue test. This record covers this run only.
