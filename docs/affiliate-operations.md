@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 12, 2026
+# Affiliate and partnership operations — updated November 13, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -348,3 +348,32 @@ Authoritative SENT records verified in Gmail:
 Website audit: initial main 0d0c012cc5411c8e4e91beb88941fe620d3a1aea has a successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; a unique missing path returns 404. Robots allows crawling and points to the correct sitemap. Checked 49 additional unique asset/external targets: only USDA food guidance returns 403 to automated access, not a confirmed broken page. FDA backup works. AvantLink may return consent interstitials; endpoint availability is not commission attribution. Live normal HTML/robots match repository output with no drift. Reviewed homepage, foam/inflatable-pad and cooler guides, policies, metadata and disclosures. Regeneration exactly matches committed public assets. Checks pass for 21 HTML files, internal paths/fragments, headings, metadata, schema and sitemap. No verified public issue needs a change today; no automatic articles, freshness dates or affiliate links added.
 
 No newer authorized performance report is available in this run. November 9 owner Cloudflare/CJ screenshots remain bounded historical observations, not a live analytics connection. Current Search Console queries/indexing, live Cloudflare visits and current cross-network conversions/revenue remain unknown. No purchase/attribution or revenue test. This record covers this run only.
+
+
+## November 13 operations record
+
+Read the current content plan and operations history, current relevant Gmail replies, full recipient-domain history and authoritative SENT messages. TETON's November 12 response (1a1d05d89b46db9d), signed by its AI assistant, directs partnership proposals to official social-media DMs. This is administrative routing, not interest, approval or a sample offer. The official contact page https://tetongear.com/pages/contact-us identifies @tetongear. No social DM sent in this Gmail-authorized run; owner may send the proposal through an official social account if pursuing TETON. Stop further email follow-ups. Wise Owl's November 3 human response says the inquiry was forwarded and they will contact us if a collaboration is possible; left with that team rather than sending another cold reminder. Existing declines, opt-outs and completed final follow-ups remain stopped. MAXTRAX remains owner-submitted and pending; Amazfit details remain unconfirmed. No new approval, tracking link, sample shipment or paid sponsorship found.
+
+Sent the single permitted final follow-up for November 3 NITECORE Store, Alpkit and ALLPOWERS inquiries after seven business days, excluding weekends and November 11 holiday. Full Gmail history showed no subsequent reply or follow-up. ALLPOWERS' current US contact page distinguishes info@allpowers.com for press/influencers from marketing@allpowers.com for affiliates; routed the final creator/sample inquiry once to info@allpowers.com in the existing thread. The already approved CJ relationship is separate. Stop further unsolicited follow-ups unless these brands respond.
+
+Official follow-up contacts verified November 13:
+- NITECORE Store: https://nitecorestore.com/pages/contact — support@nitecorestore.com
+- Alpkit: https://alpkit.com/pages/marketing — sponsorship@alpkit.com. Gear support discussed as exploratory; route/date not fixed and no prior Alpkit testing claimed.
+- ALLPOWERS: https://iallpowers.com/pages/contact-us — info@allpowers.com for press/influencer inquiries.
+
+Sent new personalized creator/sample pitches after full Gmail name/domain duplicate checks:
+- Ignik: https://ignik.com/pages/ignik-press publishes press@ignik.com. Angle: compact refillable Gas Growler setup for solo vehicle camping, packing and compatible cooking equipment. No environmental or performance test claimed.
+- Snow Peak: official US support page https://www.snowpeak.com/pages/home-page-new publishes brand@snowpeak.com as marketing contact in its FAQ data. Angle: compact stove/cookset or lantern for a minimal solo camp kitchen, practical packing and cleanup.
+
+New pitches lead with gifted review samples or evaluation loans and possible paid collaboration. Trailwise Gear is disclosed as a new research-based supporting website; relevant articles and separately approved affiliate links are secondary. Approximately 1,100 views is explicitly one recent daily Short's result, not a channel average or guaranteed reach. No personal testing, sales or other audience figures invented. Requested suitable products, gift/loan status, costs/conditions and next steps. No purchases, posting dates, contractual deliverables, favorable conclusions, usage rights or agreements promised or accepted.
+
+Authoritative SENT records verified in Gmail:
+- NITECORE Store final follow-up: 1a1d584b7da0c7a2
+- Alpkit final follow-up: 1a1d584b9d7edc61
+- ALLPOWERS final creator follow-up/routing: 1a1d584d1e1141b4
+- Ignik first inquiry: 1a1d5851138cb288
+- Snow Peak first inquiry: 1a1d585155e22229
+
+Website audit: initial main ea73c2bc510f24741dfc0202de0834d1bd265e4f has successful Workers Builds check. All 20 sitemap pages and robots.txt return HTTP 200; unique missing URL returns 404. Robots allows crawling and references correct sitemap. Checked 49 additional unique asset/external targets; only USDA food guidance returns 403 to automated access, a checking limitation rather than a confirmed broken page. FDA alternative works. Endpoint availability does not establish affiliate attribution or product destination beyond consent interstitials. Live HTML/robots match committed output exactly. Reviewed homepage, power-bank sizing and recovery-planning guides and editorial/disclosure/privacy policies. Rebuild has no public drift, and checks pass for 21 HTML files, internal links/fragments, headings, metadata, JSON-LD and sitemap. No verified public issue requires edits; no automatic article volume, freshness dates or commercial links added.
+
+No authorized current Search Console, Cloudflare performance or affiliate conversion/revenue reports available; current values remain unknown. Previously supplied November 9 owner screenshots remain bounded historical snapshots, not live access or unique-human audience proof. No purchase/attribution test. This record covers this run only.
