@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 16, 2026
+# Affiliate and partnership operations — updated November 17, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -457,3 +457,32 @@ HydraPak's November 15 corrected routing inquiry has an automated receipt, 1a1df
 Site audit: starting main 9602f6b8c4b299f3e6bca6a20bd9c7e7df70b573 has successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; unique missing URL returns 404. Robots permits crawling and points to correct sitemap. Checked 49 additional unique asset/external targets: only USDA food guidance returns 403 to automated access, a checking limitation rather than confirmed broken page. FDA alternative works. Affiliate endpoint availability does not establish attribution or navigation beyond consent interstitials. Reviewed homepage, first-camping and 2WD planning guides, editorial/disclosure/privacy policies. Live HTML/robots match committed output exactly. Regeneration yields no public drift; checks pass for 21 HTML files, internal paths/fragments, headings, metadata, JSON-LD and sitemap. No verified website issue requires public edits. No automatic articles, freshness dates or monetized links added.
 
 Current authorized Search Console queries/indexing, live Cloudflare performance and cross-network conversions/revenue remain unknown. Earlier November 9 owner screenshots remain historical observations only. No purchase/attribution test. This record covers this run only.
+
+
+## November 17 operations record
+
+Read current pipeline documents, relevant Gmail replies, SENT/domain history and current repository main. Preserve the owner's November 17 redesign and personal-photo assets; this operations run does not revert the new headline, layout, images or firsthand-vs-researched labeling.
+
+HydraPak update: Audrey S's November 16 reply (1a1e55a0e54a680a), ticket 285613, explicitly says the corrected inquiry was received and forwarded to Marketing. Record human-confirmed internal routing, not sample approval, a shipment, affiliate acceptance or paid sponsorship. Await the marketing team's response; no redundant reminder sent. Failed tim@darbycommunications.com mailbox remains stopped. King’s Camo promotional mail is not a reply to yesterday's tracking/terms request; usable tracking, applicable CJ terms and creator sample availability remain pending. No new commercial link published. Other prior declines, opt-outs and completed final-follow-up stops remain respected. MAXTRAX owner-submitted application and Amazfit clarification remain pending.
+
+Sent the one permitted final follow-up to Sofirn and FireHiking after at least seven business days from November 5, excluding weekends and November 11. Full Gmail domain history and original messages were checked; no intervening reply or follow-up found. Stop further unsolicited follow-ups unless they respond.
+- Sofirn: official https://www.sofirnlight.com/en/pages/contact-us explicitly publishes global@sofirnlight.com for YouTubers/influencers. Asked about compact lantern/headlamp, practical controls and packing, with no unperformed lumen/runtime claims.
+- FireHiking: official https://www.firehiking.com/Contact-Us-n1766772.html publishes support@firehiking.com. Asked about a suitable compact solo shelter or small camp accessory, with intended use and instructions checked before future evaluation.
+
+New personalized sample/creator pitches, after Gmail brand/domain duplicate checks:
+- Light My Fire: info@lightmyfire.com from official https://lightmyfire.com/pages/contact. Compact meal-kit/spork story focused on solo camp packing, an outdoor meal and cleanup; requested US creator/media routing.
+- Kupilka: sales@kupilka.fi from official https://kupilka.fi/en/pages/contact, explicitly listed as Export. Asked routing to media/partnerships or US representative for a small cup/bowl/utensil evaluation. Clearly stated this is not a wholesale order and asked whether support is available to a US creator; did not assume Finland-only online-store delivery applies to media support or promise international charges.
+
+Both new pitches lead with gifted samples/evaluation loans and possible paid adventure collaboration. Website is disclosed as new and research-based. Approximately 1,100 views is explicitly one recent daily Short's result, not a channel average or guaranteed reach. No prior use/testing of these brands or other metrics invented. Potential articles/approved affiliate links support distribution. Any future observations would use actual creator footage and clear disclosure. Asked gift/loan status, costs/return conditions and next steps. No spending, purchases, posting dates, contractual deliverables, favorable conclusions, content rights or legal agreements committed.
+
+Authoritative SENT records verified in Gmail:
+- Sofirn final follow-up: 1a1ea33cdda57211
+- FireHiking final follow-up: 1a1ea33cf3f4a87a
+- Light My Fire first creator inquiry: 1a1ea343ae8b7d53
+- Kupilka first creator/routing inquiry: 1a1ea343cc86d576
+
+Website audit: initial main bcbda430c0a7dad830d8f7b307c11567b7c03a82 has a successful Workers Builds check. The redesigned homepage is live, with personal adventure photos, Real Adventures. Gear Worth Bringing. headline and nearby Nilight disclosure; researched guides remain distinguished from owner experience. All 20 sitemap pages and robots return HTTP 200; unique missing path returns 404. Robots allows crawling and references the correct sitemap. Checked 57 additional unique asset/external targets (including the redesign's images and srcset candidates): only USDA food guidance returns 403 to automated access, a checking limitation rather than confirmed broken link. FDA alternative works. Affiliate endpoint availability does not prove attribution or navigation beyond consent interstitials.
+
+Reviewed homepage, stove-comparison and power-sizing guides, editorial/disclosure/privacy policies and source regeneration. Live HTML/robots match repository assets exactly, and rebuilding produces no public drift. Checks pass for 21 HTML files, internal links/fragments, headings, metadata, JSON-LD and sitemap. No verified issue requires a public fix or new article; no automatic freshness dates, volume or commercial links added. Redesign preserved.
+
+Current authorized Search Console queries/indexing, live Cloudflare reports and affiliate conversions/revenue remain unknown. Earlier owner November 9 screenshots are historical observations only, not current reporting access. No purchase/attribution test. This record covers this run only.
