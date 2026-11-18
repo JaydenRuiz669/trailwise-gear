@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 17, 2026
+# Affiliate and partnership operations — updated November 18, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -486,3 +486,45 @@ Website audit: initial main bcbda430c0a7dad830d8f7b307c11567b7c03a82 has a succe
 Reviewed homepage, stove-comparison and power-sizing guides, editorial/disclosure/privacy policies and source regeneration. Live HTML/robots match repository assets exactly, and rebuilding produces no public drift. Checks pass for 21 HTML files, internal links/fragments, headings, metadata, JSON-LD and sitemap. No verified issue requires a public fix or new article; no automatic freshness dates, volume or commercial links added. Redesign preserved.
 
 Current authorized Search Console queries/indexing, live Cloudflare reports and affiliate conversions/revenue remain unknown. Earlier owner November 9 screenshots are historical observations only, not current reporting access. No purchase/attribution test. This record covers this run only.
+
+
+## November 18 operations record
+
+Read current content-plan and affiliate-operations documents, current repository main, relevant Gmail replies and authoritative SENT/domain history. Preserve the November 17 redesign, personal-photo assets, owner experience and researched-guide labeling.
+
+Light My Fire replied (1a1ef3c21347c231), signed Carolin Treschanke Hardell, Sales and Marketing Coordinator, inviting the creator to complete its partnership form. Inspected the exact form supplied by the brand: https://docs.google.com/forms/d/e/1FAIpQLSfQZrchd9dwz6tzIOw7da2Wf74PYsZWatqiQUTI5CL6QVZ-Yw/viewform. It explicitly offers product-based collaborations only, with products in exchange for agreed content/exposure and no monetary compensation. Its required Yes/No question asks agreement to product-based collaboration without monetary compensation. No form fields filled, form submitted or agreement selected. Sent routine clarification asking whether Yes merely expresses interest with deliverables/rights reviewed separately, or whether the existing email can remain a nonbinding inquiry. This is a form invitation, not a sample approval, shipment or sponsorship agreement. Await clarification before submitting or committing content.
+
+King's Camo's November 18 promotional message (1a1eb1ef6f9ed39f) supplies creative Link ID 17390452 and ordinary destination https://kingscamo.com/collections/kc-ultra, but no account-specific publisher tracking URL. Newsletter redirect links are not product referral links. The November 16 manager request for applicable CJ terms and usable tracking remains pending; no duplicate reminder, fabricated link or new commercial link published. HydraPak's marketing referral, MAXTRAX owner-submitted application and Amazfit clarification remain pending; no new substantive sample offer/shipment or paid sponsorship identified. Prior declines, opt-outs and failed addresses remain stopped.
+
+Sent two personalized first creator/sample inquiries after full Gmail brand/domain and exact-recipient duplicate searches returned no prior outreach:
+- Nite Ize: marybeth@cgprpublicrelations.com, Mary Beth Golden, explicitly listed as media contact on official https://niteize.com/media-center-home. Small Gear Ties/S-Biners kit for cable and loose-accessory organization from truck to solo camp; no climbing, recovery, load-rating or security claims.
+- Fozzils: askfozzils@fozzils.com, published on official https://www.fozzils.com/. Flat-packing outdoor bowl/cup for solo camp meal setup, carrying and cleanup; no prior testing or measured space saving claimed.
+
+New inquiries lead with gifted evaluation samples/product loans and possible paid adventure integration. Both disclose the new research-based supporting website, no prior personal testing and approximately 1,100 views for one prior daily Short only, not an average or guarantee. Requested sample availability, costs/return conditions, terms and next steps. Supporting articles and separately approved affiliate links remain secondary; no spending, purchases, posting dates, deliverables, favorable reviews, guaranteed reach, content usage rights or agreements committed.
+
+Sent the single permitted final follow-up to Lumintop, SKILHUNT, Esbit, Outdoor Vitals, Chillbo, Trekology and KingCamp. Full Gmail domain history and original first messages checked; no intervening substantive reply, rejection or earlier follow-up found. Outdoor Vitals sale newsletter is not a response. At least seven business days have elapsed from November 6, 7 or 8 first inquiries, excluding weekends and November 11. Stop further unsolicited follow-ups to all seven unless they respond.
+- Lumintop: sales@lumintop.com, official https://lumintop.com/contact/. Compact headlamp/camp-light evaluation inquiry, no invented lumen/runtime results.
+- SKILHUNT: service@skilhunt.com, official https://www.skilhunt.com/wp-content/uploads/2024/04/EC200-USER-MANUAL-20240420.pdf. Headlamp inquiry; no photo/video rights granted or reviewer terms accepted.
+- Esbit: esbit@esbit.de, official https://esbit.de/policies/legal-notice. Existing creator thread for compact cookware/accessory routing, not a legal request.
+- Outdoor Vitals: support@outdoorvitals.com, official https://outdoorvitals.com/pages/contact. Compact sleep-system item for honest packing/setup/comfort observations.
+- Chillbo: hello@chillbo.com, official https://www.chillbo.com/pages/refund-policy and policies. Existing creator thread for inflatable camp lounger inquiry, not a return/privacy request.
+- Trekology: support@trekology.com, official https://trekology.com/pages/shipping-warranty-returns. Existing creator thread for small chair/pillow routing.
+- KingCamp: support@kingcamp.com, official https://www.kingcamp.com/pages/about-us-1. Small table/chair for practical solo camp setup. KingCamp is distinct from King's Camo.
+
+Authoritative SENT records verified in Gmail:
+- info@lightmyfire.com (reply): 1a1ef59f28d4ece0
+- sales@lumintop.com (final_followup): 1a1ef5ac5e0b415f
+- service@skilhunt.com (final_followup): 1a1ef5ac73e9e03b
+- esbit@esbit.de (final_followup): 1a1ef5ac9dc44963
+- marybeth@cgprpublicrelations.com (new_inquiry): 1a1ef5cc24f7536c
+- askfozzils@fozzils.com (new_inquiry): 1a1ef5cc425632f1
+- support@outdoorvitals.com (final_followup): 1a1ef5d4272f30fa
+- hello@chillbo.com (final_followup): 1a1ef5d429c0b9b6
+- support@trekology.com (final_followup): 1a1ef5d475ebc10b
+- support@kingcamp.com (final_followup): 1a1ef5d496ea6038
+
+Website audit: initial main 566bc8af64dad6914da385466bd827a2689f19a0 has successful Workers Builds check. All 20 sitemap pages and robots return HTTP 200; unique missing URL returns 404. Robots permits crawling and references correct sitemap. Checked 57 additional unique internal asset/external targets, including srcset image candidates: only USDA camping-food guidance returns 403 to automated access, a checking limitation rather than a verified broken page. FDA alternative works. Affiliate endpoint availability does not establish successful attribution or navigation beyond consent interstitials.
+
+Reviewed live homepage, foam-vs-inflatable sleeping-pad and recovery-gear planning guides, editorial policy, affiliate disclosure and privacy notice. Live HTML/robots match committed public output exactly. Source regeneration produces no public drift. Build and checks pass for 21 HTML files, 20 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original guides remain. No verified routine website defect requires a public edit. No automatic article volume, refresh dates or new monetized links added. Redesign preserved.
+
+Current authorized Search Console queries/indexing, live Cloudflare performance and cross-network clicks/conversions/revenue remain unknown. Earlier November 9 owner screenshots remain historical observations, not current reporting access or proof of unique human audience. No purchase/attribution test. This record covers this run only.
