@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 18, 2026
+# Affiliate and partnership operations — updated November 19, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -528,3 +528,54 @@ Website audit: initial main 566bc8af64dad6914da385466bd827a2689f19a0 has success
 Reviewed live homepage, foam-vs-inflatable sleeping-pad and recovery-gear planning guides, editorial policy, affiliate disclosure and privacy notice. Live HTML/robots match committed public output exactly. Source regeneration produces no public drift. Build and checks pass for 21 HTML files, 20 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original guides remain. No verified routine website defect requires a public edit. No automatic article volume, refresh dates or new monetized links added. Redesign preserved.
 
 Current authorized Search Console queries/indexing, live Cloudflare performance and cross-network clicks/conversions/revenue remain unknown. Earlier November 9 owner screenshots remain historical observations, not current reporting access or proof of unique human audience. No purchase/attribution test. This record covers this run only.
+
+
+## November 19 operations record
+
+Read current content-plan and affiliate-operations documents, relevant current inbox messages, full brand/domain SENT history and original messages before responding or following up. Preserve the November 17 redesign and firsthand-versus-researched labeling.
+
+Zenbivy: Dom's November 18 reply (1a1f04c891bf2dec) invites discussion of hands-on product collaboration and offers an affiliate discount plus additional information. This is not confirmation of gifted gear, a loan, shipment or paid sponsorship. Replied asking whether a gifted evaluation sample or review loan is available, suitable sleep-system items, gift/loan status, shipping/return costs and proposed content/usage terms. Explicitly distinguished a discount requiring a purchase from no-cost support; no order, spending, content dates, deliverables, favorable conclusions or usage rights agreed. Existing approved Zenbivy affiliate links remain separate.
+
+Kupilka: Laura Bondavalli, Export Director, declined current collaboration in reply 1a1f3d097f978ef5. Sent a brief respectful acknowledgment closing the request. Stop further unsolicited outreach unless Kupilka reopens the conversation.
+
+Record the owner's additional November 18 reply handling, verified against Gmail SENT: Amazfit affiliates@zepp.com requested Instagram DM routing in 1a1ef73c2982271e. Our response 1a1efc9673c26f13 asks for the exact official US creator Instagram handle and separately requests US/CJ tracking/placement clarification by email. No Instagram DM sent or contact handle guessed; no new Amazfit affiliate link published. HydraPak acknowledgment 1a1efc9698fc809b thanks Audrey for marketing routing; not a new sample application or approval. No duplicate response sent to either today. Light My Fire required product-for-content agreement clarification remains pending; no form submission or terms acceptance. King's Camo promotional mail is not a response to the pending account tracking/terms request. No new sample shipment or paid sponsorship confirmed.
+
+Sent single final follow-ups to seven November 9 first inquiries after the seven-business-day interval, excluding weekends and November 11: RUX, STEP 22, TRED Outdoors, TRE4X4, X-BULL, Superwinch and VEVOR. Original messages and full-domain Gmail history checked: no intervening human response, rejection or prior final follow-up found for these requests; Superwinch's automated ticket receipt alone is not an offer. Stop further unsolicited follow-ups unless they respond. Earlier video-count and field-test ideas in recovery inquiries are explicitly discussion options, not agreed deliverables. No installation, field test, video count, posting date, purchase, favorable conclusion, reach or rights committed. Any winch project depends on verified vehicle suitability and properly rated installation. The supporting website is new and research-based; no prior brand testing claimed.
+
+Contacts reverified on official sources:
+- RUX: hello@rux.life, https://eu.rux.life/pages/contact and https://rux.life/policies/terms-of-service.
+- STEP 22: affiliate@step22gear.com, https://step22gear.com/pages/influencers-affiliates. Selective program acknowledged; no application/terms accepted.
+- TRED: support@tredoutdoors.com, https://us.tredoutdoors.com/pages/shipping-policy. Existing creator thread for routing, not a shipping order.
+- TRE4X4 US: info@tre4x4us.com, official manufacturer https://www.tre4x4.com/guestbook/CONTACT.html.
+- X-BULL: sales@xbullauto.com, https://www.xbullauto.com/pages/contact-us-1.
+- Superwinch: info@superwinch.com, https://www.superwinch.com/pages/contact-us.
+- VEVOR: kolmarketing@vevor.com, https://influencer-program.vevor.com/help/instructions. No account registration, agreement or sample application submitted.
+
+MAXTRAX's owner-submitted application remains pending; do not repeat the initial inquiry or treat a support form referral as approval. No additional Bunker Indust email sent: its October 27 affiliate and November 9 specific project inquiries already give it two unanswered outreach messages; avoid excess repetition. Prior opt-outs, declines, failed addresses and completed final follow-ups remain stopped.
+
+New personalized first creator/sample inquiries, after exact-recipient, domain and brand Gmail duplicate checks returned no messages:
+- Wacaco: media@wacaco.com, published on official https://www.wacaco.com/pages/contact. Compact camp-coffee maker for an actual solo morning: packing, preparation and cleanup. Noted its influencer inquiry form at https://www.wacaco.com/pages/influencer-request; required audience demographics are unavailable, so no fabricated form details or application submitted. Asked media team for fit/routing.
+- GEAR AID: info@gearaid.com, verified on official https://www.gearaid.com/pages/accessibility-statement and pro-program contact references. General routing inquiry for a small Tenacious Tape repair kit/care accessory. Clearly not an accessibility complaint, wholesale order or pro-discount application; no business-license/partner form submitted. No universal repair compatibility or unperformed waterproofing/durability claims.
+
+Both new pitches lead with gifted evaluation samples or loans and potential paid collaboration; the supporting website is disclosed as new/research-based, and approximately 1,100 views is explicitly one prior daily Short only, not average or guaranteed reach. No personal brand testing claimed. Requested availability, gift/loan status, costs/return conditions, proposed terms and next steps. Actual creator footage/voice and honest observations remain the intended basis of future coverage. Articles and separately approved affiliate links are supporting distribution; no spending, purchases, posting dates, deliverables, favorable coverage, guarantees or rights agreed.
+
+TOAKS and VARGO already have first inquiries and final follow-ups in Gmail; no repeat pitch sent. UST's official press route requires its inquiry form; not bypassed with an unrelated support pitch. OCOOPA research did not establish a clear current creator contact; no guessed recipient or unrelated wholesale/recall inquiry used.
+
+Authoritative SENT records verified in Gmail:
+- friends@zenbivy.com (interested_partner_reply): 1a1f473bd0c810bc
+- laura@kupilka.fi (decline_acknowledgment): 1a1f473bf91964c1
+- hello@rux.life (final_followup): 1a1f475099709005
+- affiliate@step22gear.com (final_followup): 1a1f4750be482f8a
+- support@tredoutdoors.com (final_followup): 1a1f4750cd4642b3
+- info@tre4x4us.com (final_followup): 1a1f4750fe098d01
+- sales@xbullauto.com (final_followup): 1a1f47513471c4b5
+- info@superwinch.com (final_followup): 1a1f47515c0eff20
+- kolmarketing@vevor.com (final_followup): 1a1f475172e75dff
+- media@wacaco.com (new_creator_inquiry): 1a1f4759c547012b
+- info@gearaid.com (new_creator_inquiry): 1a1f4759e0f7f386
+
+Site audit: initial main 15eab858dd3a1899faa5ef166664e1ddea759c13 has successful Workers Builds check. All 20 sitemap pages and robots return 200; unique missing URL returns 404. Robots allows crawling and references correct sitemap. Checked 57 additional unique internal asset/external targets including responsive image candidates: only USDA camping-food guidance returns 403 to automated access, a checking limitation rather than confirmed broken link. FDA alternative works. Reachable affiliate endpoints are not proof of tracking attribution or product navigation through consent interstitials.
+
+Reviewed live homepage, used-tent inspection and cooler-before-fridge guides, editorial policy, affiliate disclosure and privacy notice. Live HTML/robots match current committed public assets exactly. Regeneration has no public drift; build/check pass for 21 HTML files, 20 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original guides. No verified routine public defect requires edits. No automatic articles, freshness dates or monetized links added; existing redesign preserved.
+
+Current authorized Search Console queries/indexing, live Cloudflare reports and cross-network clicks/conversions/revenue remain unknown. Prior owner November 9 screenshots are bounded historical observations only. No purchase/attribution test performed. This record covers this run only.
