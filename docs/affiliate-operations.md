@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 20, 2026
+# Affiliate and partnership operations — updated November 21, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -617,3 +617,35 @@ Reviewed live homepage, budget buying-order and total stove-kit cost guides, edi
 After the copy correction, build/check pass for 21 HTML files, 20 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original guides remain. Only the source JSON and corresponding stove guide HTML change publicly; redesign and personal photos preserved. Verify deployment and the exact live correction after this commit before reporting publication.
 
 Current authorized Search Console queries/indexing, live Cloudflare reports and cross-network clicks/conversions/revenue remain unknown. Prior owner reporting snapshots remain historical observations, not current authenticated data. No purchase or attribution test. This record covers this run only.
+
+
+## November 21 operations record
+
+Read current content-plan and affiliate-operations documents, current main, recent relevant Gmail messages and full-domain SENT history. No new substantive partner reply, approval, sample offer/shipment or paid sponsorship identified. Do not mistake promotional mail or old automated acknowledgments for new offers. King's Camo's no-paid-media restriction, placement clarification and real CJ tracking request remain pending after yesterday's reply; no new link added. Zenbivy's gift/loan clarification, Light My Fire's required product-for-content question, Amazfit's exact Instagram routing, HydraPak marketing referral and MAXTRAX owner application remain pending. Recent inquiries not yet due were not reminded. Prior declines, opt-outs, failed recipients and completed final-follow-up stops remain respected.
+
+Sent the one permitted final follow-up to VSSL and Onewind's November 11 first creator inquiries after seven business days (November 12, 13, 16, 17, 18, 19 and 20). Full domain history and originals read; VSSL had automated receipt/satisfaction messages only and Onewind no reply. No earlier final follow-up found. Stop further unsolicited follow-ups unless they respond.
+- VSSL: support@vsslgear.com reverified at official https://www.vsslgear.com/a/faq. Compact camp brewer/grinder story, focused on packing, preparation and cleanup.
+- Onewind: sales@onewindoutdoors.com reverified at official https://www.onewindoutdoors.com/pages/faqs, which explicitly permits partnership email. Suitable hammock or small accessory for a practical solo-camp story; no personal use/testing claimed.
+Neither message commits spending, content dates, deliverables, favorable conclusions, reach or usage rights. November 12 first inquiries such as Primus and Jetboil are not yet due under the conservative seven-business-day rule; no early reminder sent.
+
+Sent two new first creator/sample inquiries after Gmail brand/domain duplicate checks returned no prior correspondence:
+- Litesmith: support@litesmith.com, published on official https://www.litesmith.com/contact-us/. Small containers/organization accessories or compact camp items for a practical minimalist packing story. No assumed suitability for food/fuel or unsupported performance claims.
+- DutchWare: Sales@DutchWareGear.com from the email protected on official https://dutchwaregear.com/contact-us/. Verified by decoding that page's data-cfemail, not guessing from a third-party address listing. Small hammock/tarp accessory for a real solo-camping story, focused on packing and setup. No suspension strength or unperformed testing claims.
+
+New inquiries disclose the new research-based supporting website, no brand testing and approximately 1,100 views for one prior daily Short only, not average/guaranteed reach. Gifted samples or evaluation loans and potential paid collaboration lead; supporting articles and separately approved affiliate links remain secondary. Future coverage would use creator footage/voice and honest observations with disclosure. Requested availability, gift/loan status, costs/return requirements and proposed terms/next steps. No purchases, dates, contractual deliverables, favorable review or media rights agreed. No applications or agreements submitted.
+
+Authoritative SENT records verified in Gmail:
+- support@vsslgear.com (final_followup): 1a1fece33086fe59
+- sales@onewindoutdoors.com (final_followup): 1a1fece3652eaa08
+- support@litesmith.com (new_creator_inquiry): 1a1fece8945010f4
+- Sales@DutchWareGear.com (new_creator_inquiry): 1a1fece8a0165a9b
+
+Website review: starting main a950d75c9f35755685028e22cfb25267bfed474b has successful Workers Builds check. Preserve the owner's November 20 free-value-first homepage changes and /lessons/ page. The publication now has 21 indexable pages, including the new lessons page, plus custom 404 (22 HTML files). All 21 sitemap URLs and robots return 200; unique missing URL returns 404. Robots permits crawling and references the correct sitemap. Checked 57 additional unique internal asset/external targets, including srcset candidates; only USDA camping-food guidance returns 403 to automated access, a checking limitation rather than confirmed broken link. FDA alternative works. Commercial endpoint availability does not establish attribution or product navigation beyond consent interstitials.
+
+Reviewed homepage, lessons main copy/anchors, first-camping and 2WD planning guides, editorial policy, affiliate disclosure and privacy notice. Initial live HTML/robots match initial committed assets exactly. Initial source regeneration revealed drift limited to lessons HTML and sitemap ordering: the manually committed lessons page lacked sharing metadata, structured data, analytics/shared policy footer elements that its source generator produced. The sitemap contained the same 21 URLs in a different order, not missing pages.
+
+Routine maintenance: regenerate lessons using the existing shared page wrapper and add explicit WebPage structured data for that page. Preserve its main article HTML exactly, including the personal lessons and optional-gear CTA; keep existing date and homepage redesign unchanged. Generated page gains the existing site's sharing metadata, declared analytics and shared policy/corrections links. Correct the build's completion count to derive actual sitemap entries, reporting 21 instead of 20. Regenerated sitemap reorders the same URLs and dates only. Update editorial pipeline page count. No article volume, invented firsthand experience, commercial relationship or tracking URL added.
+
+Checks pass for 22 HTML files, internal paths/fragments, headings, metadata, JSON-LD and sitemap, with ten original researched guides. Confirmed lessons main HTML equals its prior version, explicit WebPage/sharing metadata exists, and a repeated build produces identical public files. Verify successful deployment and live lessons metadata, sitemap and missing-page behavior after committing before reporting completion.
+
+Current authorized Search Console queries/indexing, live Cloudflare reports and current cross-network clicks/conversions/revenue remain unknown. Historical owner screenshots/reports are not current authenticated reporting or proof of unique human audience. No purchase/attribution test. This record covers this run only.
