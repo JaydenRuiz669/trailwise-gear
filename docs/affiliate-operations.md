@@ -1,4 +1,4 @@
-# Affiliate and partnership operations — updated November 23, 2026
+# Affiliate and partnership operations — updated November 24, 2026
 
 Status: BougeRV, Nilight, KSP Performance and ALLPOWERS approvals were confirmed in connected Gmail; real supplied links are already published with nearby disclosures. Zenbivy approved the merchant partnership November 4, and AvantLink granted limited access for Zenbivy only after its formal invitation; six owner-supplied Zenbivy product tracking links were published November 4 on /zenbivy-sleep-gear/ and verified against their product destinations November 5. Earlier AvantLink declines remain historical events, not the current Zenbivy status. Bass Pro declined; Eastside's program is inactive. Renogy and GSI Outdoors declined creator collaboration; stop outreach unless they reopen the conversation. ActionHeat's CJ program was reactivated November 4, confirmed by its authenticated notification; no ActionHeat links are published. No review sample or paid sponsorship is confirmed. Performance reports, clicks, conversions and earnings remain unknown. Fees must remain $0; do not use personal purchases to manufacture commissions.
 
@@ -692,3 +692,35 @@ Prior declines, opt-outs, failed recipients and completed final-follow-up stops 
 Website audit: initial main 43e070d921c65300f9602de4edb2a9279d0a8555 has successful Workers Builds check. All 21 sitemap URLs and robots return 200; a unique missing path returns 404. Robots allows crawling and points to the correct sitemap. Checked 57 additional unique internal asset/external targets, including responsive images; only USDA camping-food guidance returns 403 to automated access, a checking limitation rather than confirmed broken link. FDA alternative works. Reachable affiliate endpoints do not prove attribution or product navigation past consent interstitials.
 
 Reviewed homepage, representative stove comparison, total cooking-kit cost and cooler guides, editorial/disclosure/privacy policies and robots. Live HTML/robots match committed output; regeneration produces no public drift. Build/check pass for 22 HTML files, 21 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original desk-researched guides remain. No verified public defect requires an edit; preserve owner's free-value-first lessons, personal photos and copy. No automatic article volume, source-check date bump, new commercial relationship or tracking URL. This commit changes only the operations record; verify deployment and live site after publishing. This record covers this run only.
+
+
+## November 24 operations record
+
+Read both current pipeline documents, main and fresh relevant inbox/SENT records. Primus replied after the November 23 final follow-up (message 1a20b141385e7cd5, signed Peter Wangsgard): requests are forwarded internally for assessment, and they will contact us only if there is a fit. This is an acknowledgment/routing status, not an offer or approval. Leave with their team; no new reminder or unnecessary acknowledgment sent. UST's auto-response 1a2091782b642196 creates case CS-10315187 only, not sample interest; no warranty/purchase/shipping details supplied to its generic checklist. No new sample offer, shipment, paid sponsorship, affiliate approval or tracking link identified.
+
+Sent the one permitted final follow-up for Ignik and Snow Peak's November 13 first inquiries and Dr.Prepare's November 14 first inquiry. Seven business days elapsed: November 16, 17, 18, 19, 20, 23 and 24. Full domain history and originals read; no reply or earlier follow-up. Reverified official contacts:
+- Ignik press@ignik.com: https://ignik.com/pages/ignik-press. Gas Growler compact vehicle-camp kitchen story; no unperformed environmental/performance testing.
+- Snow Peak brand@snowpeak.com: official FAQ data at https://www.snowpeak.com/pages/home-page-new. Compact cookset/stove or lantern, packing/setup/cleanup.
+- Dr.Prepare marketing@drprepare.com: https://drprepare.com/pages/influencer-program. Compact light/power-bank usability for solo camp setup.
+Stop further unsolicited follow-ups unless these companies respond. HydraPak had an actual referral reply, so it was not included as another unanswered cold thread.
+
+Sent two new personalized first inquiries after full-domain Gmail duplicate checks returned no prior correspondence:
+- EXPED USA marketing@expedusa.com, official https://www.expedusa.com/pages/faq explicitly invites US collaboration/sponsorship requests. Small sleeping mat, pillow or drybag/organizer for an actual solo overnight packing/setup story. Acknowledged creators are not eligible for the pro-deal route; no pro-deal/affiliate application submitted.
+- Outdoor Research sponsorship@outdoorresearch.com, official https://www.outdoorresearch.com/pages/support-faq sponsorship guidance. Human-powered hiking layer/accessory story focused on fit, packing and everyday use, not vehicle-event support, nonprofit status or an invented stewardship partnership.
+
+New inquiries lead with gifted evaluation samples/review loans and possible paid integration; the new research-based Trailwise Gear site and separately approved affiliate links are supporting distribution. Approximately 1,100 views explicitly refers to one prior Short, not average/guaranteed reach. Future coverage would use actual creator footage/voice, honest observations and disclosure. All messages seek gift/loan status, shipping/return costs, terms and next steps. No spending, product purchase, posting dates, deliverables, favorable reviews, guaranteed reach, rights grants or agreement acceptance.
+
+Authoritative Gmail SENT verification:
+- Ignik final follow-up: 1a20e462e5c18c20
+- Snow Peak final follow-up: 1a20e463255c7080
+- EXPED first creator inquiry: 1a20e4684164f123
+- Outdoor Research first creator inquiry: 1a20e4686e3fd59a
+- Dr.Prepare final follow-up: 1a20e46fc898aaef
+
+Existing declines, opt-outs, failed recipients and completed follow-up stops remain respected. King's Camo organic-placement/CJ tracking clarification and no-paid-media restriction remain pending/in force; Zenbivy gift/loan clarification, Light My Fire unsubmitted commitment/form question, Amazfit Instagram/US-CJ routing, HydraPak referral and MAXTRAX owner application remain pending. No new monetized links or program applications.
+
+Website audit: initial main b04722e77d10057671fa31ab5999aacec3c00b1f has successful Workers Builds check. All 21 sitemap pages and robots return 200; unique missing URL returns 404. Robots permits crawling and references the correct sitemap. Checked 57 additional unique asset/external targets including responsive images; only USDA camping-food guidance returns 403 to automated access, a checking limitation rather than confirmed broken page. FDA alternative works. Endpoint availability is not affiliate attribution or proof of product navigation beyond consent interstitials.
+
+Reviewed homepage, used-tent inspection and power-bank sizing guides, editorial/disclosure/privacy policies and robots. Live HTML/robots exactly match committed output. Source regeneration has no public drift; build/check pass for 22 HTML files, 21 indexable pages, internal paths/fragments, headings, metadata, JSON-LD and sitemap; ten original researched guides remain. No verified public defect requires an edit; preserve owner's free-value-first lessons/copy/photos. No automatic article volume, freshness-date changes or commercial links. This commit updates only the operations log; verify deployment and live site afterward.
+
+Current authorized Search Console queries/indexing, live Cloudflare analytics and cross-network clicks/conversions/revenue remain unknown. Earlier owner reports remain historical observations, not current connected data. No purchase/attribution test. A separate Google Ads account verification notice requires owner identity/account action by December 24, 2026; notify privately, do not store account identifiers or documents here. This record covers this run only.
